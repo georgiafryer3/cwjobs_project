@@ -1,0 +1,1101 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" id="ng-app" ng-app="applyApp" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+    <title>Apply</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" type="text/css" href="/sharedcontent/bootstrap/less/cwjobs-output.min.css?v=2.0.1178.0" />
+
+    
+
+
+    <link rel="preconnect" href="https://beacon.krxd.net" />
+    <link rel="dns-prefetch" href="https://beacon.krxd.net" />
+    <link rel="preconnect" href="https://cdn.krxd.net" />
+    <link rel="dns-prefetch" href="https://cdn.krxd.net" />
+    <link rel="preconnect" href="https://usermatch.krxd.net" />
+    <link rel="dns-prefetch" href="https://usermatch.krxd.net" />
+    <link rel="preconnect" href="https://www.google.com" />
+    <link rel="dns-prefetch" href="https://www.google.com" />
+    <link rel="preconnect" href="https://fast.fonts.net" />
+    <link rel="dns-prefetch" href="https://fast.fonts.net" />
+    <link rel="preconnect" href="https://stepstone.d3.sc.omtrdc.net" />
+    <link rel="dns-prefetch" href="https://stepstone.d3.sc.omtrdc.net" />
+
+<link href="/sharedcontent/css/cwjobs/headerfooter.min.css?v=2.0.1178.0" type="text/css" rel="stylesheet" />
+<link href="/sharedcontent/css/cwjobs/assets.min.css?v=2.0.1178.0" type="text/css" rel="stylesheet" />
+
+<link rel="stylesheet" href="/savedjobs/css/cwjobs/toast.min.css?v=2.0.397.0" />
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="/sharedcontent/bundles/IE8.js?v=2.0.1178.0"></script>
+	<link href="/sharedcontent/css/cwjobs/ie8.min.css?v=2.0.1178.0" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+<link href="/sharedcontent/css/cwjobs/fast-fonts.css?v=2.0.1178.0" type="text/css" rel="stylesheet" />
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/apply/css/cwjobs.min.css?v=2.0.1280.0" />
+    <script type="text/javascript" src="https://cdn.krxd.net/userdata/get?pub=72b7dcee-3abc-4f14-ae24-fca46ae02758&amp;callback=Krux.ns._default.kxjsonp_userdata"></script><script type="text/javascript" src="https://beacon.krxd.net/optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck"></script><script async="" src="//cdn.krxd.net/ctjs/controltag.js.1c86c30cac854ccdacab6e3099f5b9ee"></script><script src="//tags.tiqcdn.com/utag/axelspringer/stepstone-stepstoneuk/qa/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JEiQXR0_"></script><script type="text/javascript">
+var TotalJobsGroup = TotalJobsGroup || {};
+TotalJobsGroup.Config = TotalJobsGroup.Config || {};
+TotalJobsGroup.Config.Global = {"AccountDetailsWebServiceUrl":"/account/AccountDetails/GetAccountDetails","LocationWebServiceUrl":"/WebServices/LookupService/LookupService.asmx/GetAutoSuggestLocations","LocationMaxResults":10,"LocationMaxResultsMobile":5,"LocationDelayMilliseconds":50,"KeywordsAutoSuggestUrl":"/jsr/api/autosuggest/keyword","KeywordsAutoSuggestMaxResults":15,"KeywordsAutoSuggestMaxResultsMobile":5,"KeywordsAutoSuggestDelayMilliseconds":50,"PushNotificationSenderId":"576352449549","TealiumEnvironment":"qa","MobileScreenWidth":768};
+TotalJobsGroup.Config.Site = {"Site":2,"CookieComplianceMessage":"By using CWJobs you agree to our use of cookies to enhance your experience"};
+</script>
+    <script type="text/javascript" src="/sharedcontent/bundles/jquery.js?v=2.0.1178.0"></script>
+    <script type="text/javascript" src="/sharedcontent/bundles/bootstrap.js?v=2.0.1178.0"></script>
+    
+<script src="/search/assets/bundles/recent-searches.js?v=1.0.6466.26922"></script><style type="text/css">ul._2yY_X2ZJuNqjhgW4C_HATE{top:40px;border-top-left-radius:0;border-top-right-radius:0;padding-top:0;padding-bottom:0}ul._2yY_X2ZJuNqjhgW4C_HATE li{border-bottom:1px solid #f7f7f7}ul._2yY_X2ZJuNqjhgW4C_HATE li a{text-overflow:ellipsis;overflow:hidden;outline:none;line-height:40px;padding-left:36px;background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='17' height='17' viewBox='0 0 20 20'%3E%3Cpath d='M19.848 18.499a.512.512 0 0 0 0-.727l-3.806-3.774a.745.745 0 0 1-.128-.82s1.415-2.703 1.415-4.585C17.33 3.854 13.442 0 8.665 0S0 3.854 0 8.592c0 4.737 3.887 8.591 8.665 8.591 1.811 0 4.42-1.273 4.42-1.273a.783.783 0 0 1 .833.137l3.835 3.802c.202.2.532.2.733 0l1.362-1.35zM2.541 8.592c0-3.348 2.748-6.072 6.124-6.072 3.377 0 6.124 2.724 6.124 6.072s-2.747 6.072-6.124 6.072-6.124-2.724-6.124-6.072z' fill='%23d9d9d9'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:12px 15px}ul._2yY_X2ZJuNqjhgW4C_HATE li,ul._2yY_X2ZJuNqjhgW4C_HATE li:first-child,ul._2yY_X2ZJuNqjhgW4C_HATE li:last-child{padding-top:0;padding-bottom:0}</style>
+    <script type="text/javascript" src="/savedjobs/Scripts/savedjobs.min.js?v=2.0.397.0"></script>
+
+
+    <script type="text/javascript" src="/sharedcontent/bundles/headerfooter.js?v=2.0.1178.0"></script>
+        <script type="text/javascript">
+            var MTIProjectId = '72765f1a-1b8c-4a35-9e76-e31450b9f02e';
+            (function () {
+                var mtiTracking = document.createElement('script');
+                mtiTracking.type = 'text/javascript';
+                mtiTracking.async = 'true';
+                mtiTracking.src = '/sharedcontent/scripts/fastfonts/mtiFontTrackingCode.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
+            })();
+        </script><script type="text/javascript" async="" src="/sharedcontent/scripts/fastfonts/mtiFontTrackingCode.js"></script>
+
+    <!--[if lt IE 9]>
+        <script src="/apply/Scripts/ie/html5shiv.min.js"></script>
+        <script src="/apply/Scripts/ie/respond.min.js"></script>
+    <![endif]-->
+<script class="kxct" data-id="JEiQXR0_" data-timing="async" data-version="1.9" type="text/javascript">
+	//Krux - Main tag
+	window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+	(function(){
+		var k=document.createElement('script');k.type='text/javascript';k.async=true;
+		var m,src=(m=location.href.match(/\bkxsrc=([^&amp;]+)/))&amp;&amp;decodeURIComponent(m[1]);
+		k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" : (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JEiQXR0_";
+		var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+	}());
+</script>
+<script type="text/javascript">
+	window.Krux || ((Krux = function () {
+		Krux.q.push(arguments);
+	}).q = []); 
+	(function () {
+		function retrieve(n) {
+			var m, k = 'kx' + n;
+			if (window.localStorage) {
+				return window.localStorage[k] || "";
+			} else if (navigator.cookieEnabled) {
+				m = document.cookie.match(k + '=([^;]*)');
+				return (m &amp;&amp; unescape(m[1])) || "";
+			} else {
+				return '';
+			}
+		}
+		Krux.user = retrieve('user');
+		Krux.segments = retrieve('segs') &amp;&amp; retrieve('segs').split(',') || [];
+	})();
+</script><link type="text/css" rel="stylesheet" href="https://fast.fonts.net/t/1.css?apiType=css&amp;projectid=72765f1a-1b8c-4a35-9e76-e31450b9f02e" /><script type="text/javascript" async="" charset="utf-8" id="utag_axelspringer.stepstone-stepstoneuk_1" src="//tags.tiqcdn.com/utag/axelspringer/stepstone-stepstoneuk/qa/utag.1.js?utv=ut4.44.201706131016"></script><script type="text/javascript" async="" charset="utf-8" id="tealium_visitor_service_1stepstone-stepstoneuk" src="https://visitor-service-eu-central-1.tealiumiq.com/axelspringer/stepstone-stepstoneuk/015e9939462e0040278a7f0cc70005072001d06a00bd0?callback=utag.ut%5B%22writevastepstone-stepstoneuk%22%5D&amp;rnd=1505809231678"></script></head>
+<body data-ng-controller="applyController" class="ng-scope" style="">
+<script type="text/javascript">
+    var utag_data = {
+    }
+</script>
+
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+    (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/axelspringer/stepstone-stepstoneuk/qa/utag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+<div class="plain-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <a class="site-logo-header" href="/"></a>
+            </div>
+        </div>
+    </div>
+</div>    <div class="container">
+        <div class="row">
+    <div class="col-xs-12">
+        <h1 class="page-heading">Job application - feed test job 6 19.09_09.09.54_3928 rssprox WC1R 4PZ CWJobs Old Nick. Salary Checker Month is 09 uniquetermforregression used for salary checker regression</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <div class="reset-to-row main-form-header">
+            <a class="btn btn-default" href="/JobSearch/JobDetails.aspx?JobId=40970944" target="_blank">View job description &gt;&gt;</a>
+        </div>
+    </div>
+</div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="reset-to-row main-form">
+                    <div data-ng-controller="emailController" class="ng-scope">
+    <h2 class="section-heading"><span class="emphasise">1.</span>Enter your email address</h2>
+    <div class="row" ng-show="!session.view.showEmailConfirmationBox">
+        <form novalidate="" ng-submit="verifyEmail()" class="ng-dirty ng-valid-required ng-valid ng-valid-email">
+            <div class="col-xs-12 col-sm-3">
+                <label for="txtEmail" class="label-form">Email address:</label>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <div class="form-group">
+                    <input type="email" name="email" id="txtEmail" ng-change="onEmailChanged()" ng-model="session.form.email" class="form-control input-lg ng-dirty ng-valid-required ng-valid ng-valid-email" ng-disabled="false" required="" />
+                    <div id="email-error-message" ng-show="session.validation.emailErrorMessage" ng-bind="session.validation.emailErrorMessage" tabindex="0" class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-binding ng-scope" role="alert"></div>
+                </div>
+                <div class="form-group ng-hide" ng-hide="session.view.showCreateAccount || session.view.showLoginSection || session.view.showExternalBypassApplyForm">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <button type="submit" id="btnVerifyEmail" ng-disabled="!session.form.email" class="btn btn-exlg btn-primary btn-block">Next</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div ng-show="session.view.showCreateAccount" class="ng-hide">
+        <form id="createAccountForm" name="createAccountForm" novalidate="" ng-submit="register()" class="ng-pristine ng-invalid ng-invalid-required">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                        Please create a password for your CWJobs account. This will keep your job application secure.
+                    </div>
+                </div>
+            </div>
+            <div class="form-group clearfix">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <label for="txtPassword" class="label-form">Create a password:</label>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <div class="password-field">
+                <input show-password-error-on-blur="" focus-when="session.view.showCreateAccount" ng-pattern="/(?=^.{6,32}$)(?=.*\d+)(.*)/" required="" type="password" name="password" id="txtPassword" class="form-control input-lg ng-isolate-scope ng-pristine ng-invalid ng-invalid-required ng-valid-pattern" ng-model="session.form.password" autocomplete="off" />
+                <div tabindex="0" id="password-error-message" class="alert alert-danger alert-danger-icon alert-extensions" role="alert">Please provide a valid password.</div>
+                <div>
+                    <small class="help-text">Must contain at least 6 characters and a number.</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="form-group clearfix">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <label for="txtConfirmPassword" class="label-form">Confirm password:</label>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <div class="password-field">
+                <input show-password-error-on-blur="" compare-to="session.form.password" type="password" required="" name="confirmationPassword" id="txtConfirmPassword" class="form-control input-lg ng-isolate-scope ng-pristine ng-invalid ng-invalid-required ng-valid-compare-to" ng-model="session.form.confirmPassword" autocomplete="off" />
+                <div tabindex="0" id="confirm-password-error-message" class="alert alert-danger alert-danger-icon alert-extensions" role="alert">Please ensure passwords match.</div>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                    <div class="ts-and-cs small">
+                        <button id="btntac" type="button" data-toggle="collapse" data-parent="#accordion" href="#tsandcs" class="clearfix btn btn-link btn-sm btn-link-extensions" ng-class="{'open': tsAndCsOpen}" ng-click="tsAndCsOpen = !tsAndCsOpen">
+                            Terms and conditions of applying online<span class="caret caret-spacer">
+                            </span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                    <div id="tsandcs" class="small collapse">
+                        <p>
+                            By choosing to continue you will become a registered user and be able to sign into all
+                                <span><a id="lnkAbout" target="_blank" href="/about-us">Totaljobs Group sites</a>.</span>
+                            We will use your contact information to send you relevant jobs that match your criteria, as well as contact you about other relevant goods and services available from Totaljobs Group.
+                        </p>
+                        <p>
+                            By continuing you are giving consent for us and our partner organisations to store
+                                <a id="lnkCookies" href="/cookies" target="_blank">cookies</a>
+                            on your device to personalise your experience. Your application activity will be visible when you enable employers to find you. Totaljobs Group does not verify the names of organisations applied to.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row submit">
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                    <button id="btnRegister" type="submit" class="btn btn-exlg btn-primary btn-block ">Continue</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <form id="loginForm" novalidate="" method="POST" ng-show="session.view.showLoginSection" class="ng-pristine ng-invalid ng-invalid-required">
+        <div class="row">
+            <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                <p>Please sign in with your password to pre-fill your application.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label for="loginPasswordField" class="label-form">Password:</label>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <input id="loginPasswordField" focus-when="session.view.showLoginSection" type="password" class="form-control input-lg ng-isolate-scope ng-pristine ng-invalid ng-invalid-required" ng-model="loginPassword" ng-trim="false" autocomplete="off" required="" />
+                    <div tabindex="0" class="alert alert-danger alert-danger-icon alert-extensions invalid-login-password-msg ng-hide" role="alert" ng-show="isInvalidPassword || (loginSubmitted &amp;&amp; !loginPassword)">Please provide a valid password.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" ng-show="!session.view.showPasswordResetConfirmation">
+            <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                <div id="recognisedSuccess">
+                    <p>
+                        Don't have a password or have forgotten it? <a class="inline-reset-password-link" id="resetPasswordLink" href="#" ng-click="resetPassword()">Reset password</a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group clearfix">
+            <div class="row">
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                    <div class="alert alert-success js-password-reset-confirmation ng-hide" role="alert" ng-show="session.view.showPasswordResetConfirmation">
+                        <span class="password-reset-thanks">Thank you.</span> We have sent an email with a link to reset your password. (It may take a few minutes to arrive). Please check your inbox.
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                    <div class="keep-me-signed-in">
+                        <input id="keepMeSignedInCheckbox" type="checkbox" ng-model="keepMeSignedIn" class="ng-pristine ng-valid" />
+                        <label for="keepMeSignedInCheckbox" class="small label-form inline-label-form">Keep me signed in</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-3">
+                    <button type="submit" id="signInButton" class="btn btn-exlg btn-primary btn-block" ng-click="signIn()">Sign in</button>
+                </div>
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-0 col-md-3">
+                    <button id="continueWithoutSignInButton" class="btn btn-continue-without-signing-in btn-block" ng-click="continueWithoutSigningIn()">Continue without signing in</button>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-offset-3 col-md-6">
+                    
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <div id="email-confirmation" ng-show="session.view.showEmailConfirmationBox" class="ng-hide">
+        <div class="row" ng-hide="session.view.showCreateAccount">
+            <div class="col-xs-12 col-sm-3">
+                <label class="label-form">Email address:</label>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <div class="alert alert-success">
+                    <div class="success-icon email-success ng-binding" role="alert" ng-bind="session.form.email">test1@gfryer.dev.jobsite.co.uk</div>
+                        <div class="welcome-message ng-hide" ng-show="session.view.isLoggedIn">
+                            <div><strong>Welcome back <span ng-bind="session.form.originalFirstName" class="ng-binding"></span></strong> (<a class="small sign-out-lnk" ng-click="signOut('%2fjob%2f40970944%2fapply%3fentryurl%3d%252fjobs%252340970944%26TemplateType%3dStandard')" href="#">Not you? Sign out</a>)
+                            </div>
+                        </div>
+                    <div ng-show="session.view.userRegisteredSuccessfully" class="ng-hide">
+                        <div class="welcome-message">
+                            <div>
+                                Your CWJobs account has been created successfully.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+</div>
+                    
+                    <form id="standardForm" name="applicationForm" action="/job/40970944/apply?entryurl=%2fjobs%2340970944&amp;TemplateType=Standard" method="POST" enctype="multipart/form-data" novalidate="" class="ng-pristine ng-invalid ng-invalid-required" ng-show="session.view.showApplyForm">
+                        
+
+
+<div data-ng-controller="cvController" section-disabled="session.view.cvSectionDisabled" class="section-disabled ng-scope">
+    <h2 class="section-heading"><span class="emphasise">2.</span> Add your CV</h2>
+    <div class="row">
+        <div class="form-group clearfix">
+            <div class="col-xs-12 col-sm-3">
+                <label for="btnCVUpload" class="label-form">CV:</label>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+
+                <div class="alert alert-success success-icon ng-hide" ng-show="session.form.cvFileName &amp;&amp; !session.validation.cvErrorMessage" role="alert">
+                    <div id="cvFileName" ng-bind="session.form.cvFileName" class="ng-binding"></div>
+                    <div class="last-updated-date ng-binding ng-hide" ng-bind="session.form.cvTimeStamp" ng-show="session.form.cvTimeStamp &amp;&amp; !showCvRefreshOption"></div>
+                </div>
+                <div ng-show="showCvRefreshOption" class="ng-hide">
+                    <!-- ngIf: showCvRefreshOption -->
+                </div>
+                <div id="cv-error-message" ng-show="session.validation.cvErrorMessage" ng-bind="session.validation.cvErrorMessage" tabindex="0" class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-binding ng-scope" role="alert"></div>
+
+                <div class="cv-container">
+                    <button id="btnCVUpload" type="button" class="btn btn-cv-upload btn-block btn-lg dropdown-toggle disabled" ng-class="{'disabled':session.view.cvSectionDisabled}" data-toggle="dropdown">
+                        <div class="pull-left">Upload your CV</div>
+                        <div class="pull-right"><span class="caret"></span></div>
+                    </button>
+                    <input type="file" name="localCV" id="localCV" title="from Desktop" cv-control="" />
+                    <ul class="dropdown-menu" role="menu">
+                        <li class="file-upload">
+                            <label class="icon-device-drive local-cv" for="localCV">from this device</label>
+                        </li>
+                            <li ng-show="isBrowserSupported" class="">
+                                <a id="googleDrive" class="icon-google-drive" ng-click="saveForm(40970944)" href="/cloudpicker/googledrive?ReturnUrl=%2fjob%2f40970944%2fapply%3fentryurl%3d%252fjobs%252340970944%26TemplateType%3dStandard ">
+                                    from Google Drive™
+                                </a>
+                            </li>
+                            <li ng-show="isBrowserSupported" class="">
+                                <a class="icon-one-drive" ng-click="saveForm(40970944)" href="/cloudpicker/onedrive?ReturnUrl=%2fjob%2f40970944%2fapply%3fentryurl%3d%252fjobs%252340970944%26TemplateType%3dStandard" id="lnkOneDrive">
+                                    from OneDrive™
+                                </a>
+                            </li>
+                            <li ng-show="isBrowserSupported" class="">
+                                <a class="icon-dropbox-drive" ng-click="saveForm(40970944)" href="/cloudpicker/dropbox?ReturnUrl=%2fjob%2f40970944%2fapply%3fentryurl%3d%252fjobs%252340970944%26TemplateType%3dStandard" id="lnkDropBox">
+                                    from Dropbox™
+                                </a>
+                            </li>
+                            <li ng-show="isBrowserSupported" class="">
+                                <a class="icon-box-drive" ng-click="saveForm(40970944)" href="/cloudpicker/box?ReturnUrl=%2fjob%2f40970944%2fapply%3fentryurl%3d%252fjobs%252340970944%26TemplateType%3dStandard" id="lnkBox">
+                                    from Box™
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+                <small class="help-text">We accept MS Word, PDF &amp; Richtext formats. Maximum file size 1MB.</small>
+            </div>
+            <div ng-show="showCvRefreshOption &amp;&amp; hasCvInDb" class="profile-cv col-xs-12 col-sm-offset-3 col-sm-9 ng-hide">
+                <a ng-click="setProfileCv()">
+                    Or use my stored CV
+                </a>
+                <input type="hidden" name="ProfileCvOption" ng-value="useProfileCv" autocomplete="off" value="false" />
+            </div>
+        </div>
+
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label for="txtCoverLetter" class="label-form">Cover letter (optional):</label>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="cover-letter-container">
+                        <button type="button" cover-letter-link="" class="clearfix cover-letter-link btn btn-link btn-link-extensions" ng-class="{'open': session.form.coverLetterOpen}" ng-disabled="session.view.cvSectionDisabled" data-toggle="collapse" data-parent="#accordion" href="#coverLetter" disabled="disabled">
+                            <span id="coverLetterText">Add a cover letter</span><span class="caret caret-spacer"></span>
+                        </button>
+                        <div id="coverLetter" class="collapse cover-letter" ng-class="{'in':hasSavedCoverLetter}">
+                            <textarea class="form-control ng-pristine ng-valid" id="txtCoverLetter" name="coverLetter" rows="14" ng-model="session.form.coverLetter" ng-disabled="!session.form.coverLetterOpen" disabled="disabled"></textarea>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+    </div>
+</div>
+
+
+                        
+<div data-ng-controller="detailsController" section-disabled="session.view.detailsSectionDisabled" class="section-disabled ng-scope" ng-init="isGraduateJob = false;">
+    <input type="hidden" name="email" ng-value="session.form.email" autocomplete="off" value="test1@gfryer.dev.jobsite.co.uk" />
+    <h2 class="section-heading" id="detailsSection">
+        <span class="emphasise">3.</span> Enter your details
+    </h2>
+    <div class="row">
+        <div class="form-group clearfix">
+            <div class="col-xs-12 col-sm-3">
+                <label for="txtFirstname" class="label-form">Name:</label>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-6">
+                        <input type="text" name="firstname" id="txtFirstname" maxlength="50" class="form-control input-lg  ng-pristine ng-invalid ng-invalid-required" placeholder="First name" ng-model="session.form.firstName" ng-disabled="session.view.detailsSectionDisabled" required="" disabled="disabled" />
+                        <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" ng-show="submitted &amp;&amp; applicationForm.firstname.$invalid" tabindex="0" role="alert">Please provide your first name.</div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <input type="text" name="surname" id="txtSurname" maxlength="50" class="form-control input-lg ng-pristine ng-invalid ng-invalid-required" placeholder="Surname" ng-model="session.form.surname" ng-disabled="session.view.detailsSectionDisabled" required="" disabled="disabled" />
+                        <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" ng-show="submitted &amp;&amp; applicationForm.surname.$invalid" tabindex="0" role="alert">Please provide your surname.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label class="label-form label-btn-row">Eligible to work in the UK:</label>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <div class="btn-group btn-group-justified" data-toggle="buttons">
+                        <label for="ukEligibilityYes" class="btn btn-select disabled" ng-click="session.form.ukEligibility = eligibility.yes;" ng-class="{active: session.form.ukEligibility == eligibility.yes, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="ukEligibility" id="ukEligibilityYes" value="1" ng-checked="session.form.ukEligibility == eligibility.yes" ng-required="true" required="required" />Yes
+                        </label>
+                        <label for="ukEligibilityNo" class="btn btn-select disabled" ng-click="session.form.ukEligibility = eligibility.no" ng-class="{active: session.form.ukEligibility == eligibility.no, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="ukEligibility" id="ukEligibilityNo" value="2" ng-checked="session.form.ukEligibility == eligibility.no" ng-required="true" required="required" />No
+                        </label>
+                    </div>
+                    <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" ng-show="submitted &amp;&amp; !session.form.ukEligibility" tabindex="0" role="alert">Please select your eligibility.</div>
+                </div>
+            </div>
+                    <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label class="label-form label-btn-row">Eligible to work in the EU:</label>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <div class="btn-group btn-group-justified" data-toggle="buttons">
+                        <label for="euEligibilityYes" class="btn btn-select disabled" ng-click="session.form.euEligibility = eligibility.yes;" ng-class="{active: session.form.euEligibility == eligibility.yes, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="euEligibility" id="euEligibilityYes" value="3" ng-checked="session.form.euEligibility == eligibility.yes" ng-required="true" required="required" />Yes
+                        </label>
+                        <label for="euEligibilityNo" class="btn btn-select disabled" ng-click="session.form.euEligibility = eligibility.no" ng-class="{active: session.form.euEligibility == eligibility.no, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="euEligibility" id="euEligibilityNo" value="4" ng-checked="session.form.euEligibility == eligibility.no" ng-required="true" required="required" />No
+                        </label>
+                    </div>
+                    <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" ng-show="submitted &amp;&amp; !session.form.euEligibility" tabindex="0" role="alert">Please select your eligibility.</div>
+                </div>
+
+                <div class="col-xs-12 col-sm-offset-3 col-sm-9">
+                    <div class="uk-and-eu small">
+                        <button id="btnukandeu" type="button" data-toggle="collapse" data-parent="#accordion" href="#ukandeu" class="clearfix btn btn-link btn-sm btn-link-extensions" ng-class="{'open': ukAndEuOpen}" ng-click="ukAndEuOpen = !ukAndEuOpen" ng-disabled="session.view.detailsSectionDisabled" disabled="disabled">
+                            Why am I being asked for this?<span class=" caret caret-spacer">
+                            </span>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                    <div id="ukandeu" class="small collapse">
+                        <p>
+                            Although it may not be required for this job, we store your eligibility to work in the UK and EU in your profile so you can make quicker applications in the future. If you are a UK citizen, you are eligible to work in the EU.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        
+        
+
+
+        
+        
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label for="ddlEducation" class="label-form">Highest level of education:</label>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <select name="education" class="form-control input-lg ng-pristine ng-invalid ng-invalid-required" id="ddlEducation" ng-model="session.form.education" ng-disabled="session.view.detailsSectionDisabled" required="" disabled="disabled">
+                        <option value="">- Please select -</option>
+                            <option value="0">None of these</option>
+                            <option value="531">GCSE/GNVQ/O levels</option>
+                            <option value="532">A levels /advanced GNVQ</option>
+                            <option value="533">HND/HNC</option>
+                            <option value="534">University degree</option>
+                            <option value="535">Masters degree or higher</option>
+                            <option value="536">BTEC</option>
+                            <option value="537">City &amp; Guilds</option>
+                            <option value="538">Diploma</option>
+                            <option value="539">Senior business or technical qualification</option>
+                            <option value="540">PhD</option>
+                    </select>
+                    <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" field="education" ng-show="(submitted &amp;&amp; applicationForm.education.$invalid) || (applicationForm.education.$invalid &amp;&amp; applicationForm.education.$dirty)" tabindex="0" role="alert">Please select your highest level of education.</div>
+                </div>
+            </div>
+        
+        
+
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label for="txtCurrentJobTitle" class="label-form">Current/most recent job title:</label>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="autocomplete-container">
+                        <input typeahead-source-url="/jsr/api/autosuggest/keyword" typeahead-max-results="15" typeahead-max-results-mobile="5" typeahead-template-url="template/typeahead/custom-template.html" typeahead-wait-ms="50" typeahead="jt as jt.DisplayString for jt in jobTitles" typeahead-min-length="1" name="currentJobTitle" id="txtCurrentJobTitle" class="form-control input-lg ng-pristine ng-invalid ng-invalid-required" placeholder="E.g. Regional Manager, Student" ng-model="session.form.currentJobTitle" ng-disabled="session.view.detailsSectionDisabled" required="" autocomplete="off" type="search" aria-autocomplete="list" aria-expanded="false" aria-owns="typeahead-009-6702" disabled="disabled" /><ul class="dropdown-menu ui-autocomplete ng-isolate-scope" ng-style="{display: isOpen()&amp;&amp;'block' || 'none', top: position.top+'px', left: position.left+'px'}" typeahead-popup="" id="typeahead-009-6702" matches="matches" active="activeIdx" select="select(activeIdx)" query="query" position="position" template-url="template/typeahead/custom-template.html" style="display: none;">
+    <!-- ngRepeat: match in matches -->
+</ul>
+                        <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" ng-show="submitted &amp;&amp; applicationForm.currentJobTitle.$invalid" tabindex="0" role="alert">Please enter your current/most recent job title.</div>
+                    </div>
+                </div>
+            </div>
+        
+
+
+
+
+
+            <div class="form-group clearfix">
+                <div class="col-xs-12 col-sm-3">
+                    <label for="ddlSalaryRange" class="label-form label-btn-row">Current/most recent salary:</label>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="btn-group btn-group-justified" data-toggle="buttons">
+                        <label for="rdoAnnualRate" class="btn btn-select active disabled" ng-click="changeSalaryRateType(1)" ng-class="{active: model.isSalaryRateAnnual, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="salaryRangeType" id="rdoAnnualRate" value="1" ng-checked="model.isSalaryRateAnnual" checked="checked" /> Annual
+                        </label>
+                        <label for="rdoDailyRate" class="btn btn-select disabled" ng-click="changeSalaryRateType(4)" ng-class="{active: model.isSalaryRateDaily, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="salaryRangeType" id="rdoDailyRate" value="4" ng-checked="model.isSalaryRateDaily" /> Daily
+                        </label>
+                        <label for="rdoHourlyRate" class="btn btn-select disabled" ng-click="changeSalaryRateType(5)" ng-class="{active: model.isSalaryRateHourly, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="salaryRangeType" id="rdoHourlyRate" value="5" ng-checked="model.isSalaryRateHourly" /> Hourly
+                        </label>
+                        <label for="rdoNoRate" class="btn btn-select disabled" ng-click="changeSalaryRateType(0)" ng-class="{active: model.isSalaryRateNone, disabled: session.view.detailsSectionDisabled}">
+                            <input type="radio" name="salaryRangeType" id="rdoNoRate" value="0" ng-checked="model.isSalaryRateNone" /> None
+                        </label>
+                    </div>
+                    <select id="ddlSalaryRange" name="salaryRange" class="form-control input-lg ng-pristine ng-valid" ng-disabled="session.view.detailsSectionDisabled || model.isSalaryRateNone" ng-model="session.form.salaryRange" disabled="disabled">
+                        <option value="0" ng-bind="model.salaryText" class="ng-binding">Select annual salary</option>
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="1" class="ng-scope">0-9,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="2" class="ng-scope">10,000-11,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="3" class="ng-scope">12,000-13,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="4" class="ng-scope">14,000-15,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="5" class="ng-scope">16,000-17,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="6" class="ng-scope">18,000-19,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="7" class="ng-scope">20,000-21,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="8" class="ng-scope">22,000-23,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="9" class="ng-scope">24,000-25,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="10" class="ng-scope">26,000-27,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="11" class="ng-scope">28,000-29,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="12" class="ng-scope">30,000-34,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="13" class="ng-scope">35,000-39,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="14" class="ng-scope">40,000-44,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="15" class="ng-scope">45,000-49,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="16" class="ng-scope">50,000-54,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="17" class="ng-scope">55,000-59,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="18" class="ng-scope">60,000-64,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="19" class="ng-scope">65,000-69,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="20" class="ng-scope">70,000-74,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="21" class="ng-scope">75,000-79,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="22" class="ng-scope">80,000-84,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="23" class="ng-scope">85,000-89,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="24" class="ng-scope">90,000-94,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="25" class="ng-scope">95,000-99,999</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 1 --><option ng-if="session.form.salaryRateType == 1" value="26" class="ng-scope">100,000 and above</option><!-- end ngIf: session.form.salaryRateType == 1 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 4 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                            <!-- ngIf: session.form.salaryRateType == 5 -->
+                    </select>
+                    <div class="alert alert-danger alert-danger-icon alert-extensions ng-hide ng-scope" ng-show="(submitted &amp;&amp; session.form.salaryRange == 0 &amp;&amp; !model.isSalaryRateNone) || (session.form.salaryRange == 0 &amp;&amp; !model.isSalaryRateNone &amp;&amp; applicationForm.salaryRange.$dirty)" tabindex="0" role="alert">Please enter your current/most recent salary.</div>
+                </div>
+            </div>
+
+
+
+        
+
+
+
+
+        <!-- ngIf: session.view.showCvDbOptInFlag --><div class="form-group clearfix ng-scope" ng-if="session.view.showCvDbOptInFlag">
+            <div class="col-xs-12 col-sm-offset-3 col-sm-9">
+                <div class="opt-in-checkbox">
+                    <div class="pull-left">
+                        <input checked="checked" id="cvdbOptIn" name="cvdbOptIn" type="checkbox" ng-model="session.form.cvdbOptIn" ng-disabled="session.view.detailsSectionDisabled" value="true" class="ng-pristine ng-valid" disabled="disabled" />
+                    </div>
+                    <label class="checkbox-label" for="cvdbOptIn">Enable other employers to find me.</label>
+                </div>
+            </div>
+        </div><!-- end ngIf: session.view.showCvDbOptInFlag -->
+
+        <div id="showOCAFlagContainer" class="form-group clearfix" ng-show="session.view.showOCAFlag">
+            <div class="col-xs-12 col-sm-offset-3 col-sm-9">
+                <div class="opt-in-checkbox">
+                    <div class="pull-left">
+                        <input checked="checked" id="ocaOptIn" name="ocaOptIn" type="checkbox" ng-model="session.form.ocaOptIn" ng-disabled="session.view.detailsSectionDisabled" value="true" class="ng-pristine ng-valid" disabled="disabled" />
+                    </div>
+                    <label class="checkbox-label" for="ocaOptIn">Switch on one-click apply to send quicker applications.</label>
+                    <button id="btnocaOptIn" type="button" data-toggle="collapse" data-parent="#accordion" href="#ocaOptInText" class="clearfix btn btn-link btn-sm btn-link-extensions" ng-class="{'open': ocaOptInTextOpen}" ng-click="ocaOptInTextOpen = !ocaOptInTextOpen" ng-disabled="session.view.detailsSectionDisabled" disabled="disabled">
+                        What is this?<span class="caret caret-spacer">
+                        </span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+                <div id="ocaOptInText" class="small collapse">
+                    <p>
+                        One-click apply is an additional way to apply using your saved CV, with just one click or tap. You can add a cover letter and edit your settings at any time in My Account and can still apply in the usual way if you want to change your CV or add a cover letter before submitting your application.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ngIf: session.view.showThirdPartyMarketingOptInFlag --><div class="form-group clearfix ng-scope" ng-if="session.view.showThirdPartyMarketingOptInFlag">
+            <div class="col-xs-12 col-sm-offset-3 col-sm-9">
+                <div class="opt-in-checkbox">
+                    <div class="pull-left">
+                        <input id="thirdPartyMarketingOptIn" name="thirdPartyMarketingOptIn" type="checkbox" ng-model="session.form.thirdPartyMarketingOptIn" ng-value="session.form.thirdPartyMarketingOptIn" ng-disabled="session.view.detailsSectionDisabled" class="ng-pristine ng-valid" value="false" disabled="disabled" />
+                    </div>
+                    <label class="checkbox-label" for="thirdPartyMarketingOptIn">Receive offers from third party companies.</label>
+                </div>
+            </div>
+        </div><!-- end ngIf: session.view.showThirdPartyMarketingOptInFlag -->
+    </div>
+</div>
+                        <div class="row">
+    <div class="form-group clearfix submit">
+        <div class="col-xs-12 col-sm-offset-3 col-sm-6 section-disabled" section-disabled="session.view.detailsSectionDisabled">
+                <button id="btnSubmit" class="btn btn-exlg btn-primary btn-block" ng-click="submitApplyForm($event, false)" ng-disabled="session.view.detailsSectionDisabled" disabled="disabled">Submit</button>
+            
+        </div>
+    </div>
+</div>
+                    </form>
+                    <div data-ng-controller="loaderController" modal-show="session.showLoader" data-backdrop="static" class="modal ng-scope" id="loader" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;"></div>
+                    </div>
+                </div>
+            </div>
+<div class="row">
+    <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+        <div class="footer-container">
+            <ul class="list-inline footer">
+                <li class="first"><a target=" _blank" href="/about-us">About us</a></li>
+                <li><a target=" _blank" href="/contact-us">Contact us</a></li>
+                <li><a target=" _blank" href="/cookies">Cookies</a></li>
+                <li><a target=" _blank" href="/terms-and-conditions">Terms and conditions</a></li>
+                <li><a target=" _blank" href="/privacy-policy">Privacy policy</a></li>
+            </ul>
+            <div class="copyright-text small">
+                © Copyright and database rights <br class="visible-xs" /> Totaljobs Group Ltd 2017
+                <br /><img ng-show="isBrowserSupported" src="/apply/img/global/tjg_logo.svg" class="tjg-logo" alt="Totaljobs Group logo" />
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <br />
+        <script type="text/javascript">
+            var apply ={"initState":{"noOfScreeningQuestions":0,"showLoader":false,"submitted":false,"jobId":40970944,"keywords":null,"form":{"coverLetter":"Dear Sir/Madam,\n\nPlease find attached a copy of my CV for your consideration. I am an excellent candidate for this vacancy as it closely matches my skills and experience. I look forward to hearing from you.\n\nYours faithfully","coverLetterOpen":false,"currentJobTitle":null,"cvdbOptIn":true,"ocaOptIn":true,"cvFileName":null,"cvTimeStamp":null,"education":null,"currentStatus":null,"ukEligibility":0,"euEligibility":0,"email":null,"firstName":null,"salaryRange":0,"salaryRateType":1,"surname":null,"desiredLocations":null,"preferredSectors":null,"educationHistory":null,"thirdPartyMarketingOptIn":false,"schoolLeavingYear":null,"nationality":null,"countryOfResidence":null,"currentJobLevel":null,"currentJobLocation":null,"currentJobType":null},"validation":{"cvErrorMessage":null,"emailErrorMessage":null},"view":{"fields":{"recentJobTitle":{"isRequired":true,"isDisplayed":true},"recentSalary":{"isRequired":true,"isDisplayed":true},"currentStatus":{"isRequired":false,"isDisplayed":false},"desiredLocation":{"isRequired":false,"isDisplayed":false},"schoolLeavingYear":{"isRequired":false,"isDisplayed":false},"industrySectors":{"isRequired":false,"isDisplayed":false},"highestLevelOfEducation":{"isRequired":true,"isDisplayed":true},"cv":{"isRequired":true,"isDisplayed":true},"educationCourseTitle":{"isRequired":true,"isDisplayed":true},"educationCourseGrade":{"isRequired":true,"isDisplayed":true},"ukEligibility":{"isRequired":true,"isDisplayed":true},"euEligibility":{"isRequired":true,"isDisplayed":true},"nationality":{"isRequired":false,"isDisplayed":false},"countryOfResidence":{"isRequired":false,"isDisplayed":false},"currentJobLevel":{"isRequired":false,"isDisplayed":false},"currentJobLocation":{"isRequired":false,"isDisplayed":false},"currentJobType":{"isRequired":false,"isDisplayed":false},"educationHistory":{"isRequired":false,"isDisplayed":false}},"detailsSectionDisabled":false,"cvSectionDisabled":true,"isExternalJobAndNotATSIntegrated":false,"showApplyForm":true,"showEmailConfirmationBox":false,"showExternalBypassApplyForm":false,"isLoggedIn":false,"showOCAFlag":true,"showCvDbOptInFlag":true,"showThirdPartyMarketingOptInFlag":true,"educationHistoryParentField":{"key":"education","targetValues":[538,533,534,539,535,540]}}}};
+        </script>
+        <script type="text/javascript" src="/apply/bundles/scripts.js?v=2.0.1280.0"></script>
+        
+<!-- AGNOSTIC ANALYTICS JSON -->
+<script language="JavaScript" type="text/javascript">
+var analytics = {"ApplyFormType":"First Party","AtsIntegrationStatus":null,"CompanyType":"Direct","TemplateType":"Standard","DynamicCreativeViewCounts":"","CompanyId":166666,"JobLocation":"UK|South East|London","JobCity":"Central London / West End","JobPostcode":"WC1R 4PZ","IndustrySectors":"IT &amp; Internet","JobContractTypes":"Permanent","JobSalary":"14000.00 - 15999.00","JobId":40970944,"JobTitle":"feed test job 6 19.09_09.09.54_3928 rssprox WC1R 4PZ CWJobs Old Nick. Salary Checker Month is 09 uniquetermforregression used for salary checker regression","CompanyName":"CWJobs Auto Company","Disciplines":"Media","SubDisciplines":"Media-Media","NormalisedJobTitles":"checker","PostingMethod":"Feed","SearchType":"standard","SourceSiteName":"CWJobs","Campaign":"","PageName":"ApplyOnline","SiteCatEvents":"event78","IsErrorPage":null,"ABTestingCampaign":null,"ABTestingVersion":null,"LoggedInState":"Anonymous","SiteSection":null,"SV":null,"AccountType":null,"RecommendedJobsOrigin":null,"ContextData":{},"MemberId":"310f6bd7-9937-483b-aecb-01a759ed2c27","JobsiteMemberId":null}
+</script>
+<!-- END AGNOSTIC ANALYTICS JSON -->
+
+    <!-- APPMEASUREMENT CODE -->
+<script type="text/javascript">var s_account='stepstone-tjg-cw-uk';</script>
+<script type="text/javascript" src="/CDNCached/AppMeasurementCustom.min.js"></script>
+<script type="text/javascript">
+    var analytics = analytics || {};
+    var s = s || {};
+    var TotalJobsGroup = TotalJobsGroup || {};
+    TotalJobsGroup.Header = TotalJobsGroup.Header || {};
+    TotalJobsGroup.Header.LoggedInStates = TotalJobsGroup.Header.LoggedInStates || {"0": "Anonymous", "1": "Soft", "2": "Hard"};
+    TotalJobsGroup.QueryString = TotalJobsGroup.QueryString || {};
+    TotalJobsGroup.QueryString.GetValue = function (e){e=e.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");var a=new RegExp("[\\?&amp;]"+e+"=([^&amp;#]*)", 'i'),r=a.exec(location.search);return null===r?"":decodeURIComponent(r[1].replace(/\+/g," "))}
+    TotalJobsGroup.Analytics = TotalJobsGroup.Analytics || {};
+
+    var isJobsite = analLib.getBrandFromURL(window.location.href) === "JS";
+    TotalJobsGroup.Analytics.getCampaignCode = (function() {
+        var __campaignCode = null;
+        return function () {
+            if (__campaignCode) {
+                return __campaignCode;
+            }
+
+            __campaignCode = TotalJobsGroup.QueryString.GetValue("DCMP") ||
+                TotalJobsGroup.QueryString.GetValue("wt.mc_id") || TotalJobsGroup.QueryString.GetValue("CID") ||
+                "";
+            return __campaignCode;
+        }
+    })();
+
+    TotalJobsGroup.Analytics.getCookie = (function() {
+        return function(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i &lt; ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) === ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) === 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "empty";
+        }
+    })();
+
+    TotalJobsGroup.Analytics.setMilkroundSubChannel = (function() {
+        return function () {
+            var subChannel = "";
+            if (window.location.host.indexOf("www.milkround") === 0)
+                subChannel = "Graduate";
+            if (window.location.host.indexOf("www.milkround") === 0 &amp;&amp; TotalJobsGroup.Analytics.getCookie("SubBrand") !== "empty")
+                subChannel = "School Leavers";
+            s.eVar119 = subChannel;
+        }
+    })();
+
+    $(document).ready(function() {
+            if (!analytics.Campaign) {
+                analytics.Campaign = TotalJobsGroup.Analytics.getCampaignCode();
+            }
+
+            if (analLib.isFreshUser()) {
+                analytics.SiteCatEvents = analLib.addFreshUserEvent(analytics.SiteCatEvents);
+            }
+
+            if (isJobsite) {
+                s.trackingServer = "stepstone.d1.sc.omtrdc.net";
+            }
+
+            var accountDetails = {
+                getAccountDetails: function(callback) { callback(null); throw new Error("Error, getAccountDetails was not found!"); }
+            };
+
+        if (TotalJobsGroup.Header.AccountDetails) {
+            accountDetails = new TotalJobsGroup.Header.AccountDetails(window.jQuery, window.location, TotalJobsGroup.Config.Global, TotalJobsGroup.IsJobsiteBrand);
+        }
+
+        accountDetails.getAccountDetails(function(data) {
+            if(data) {
+                analytics.MemberId = data.MemberId;
+                analytics.JobsiteMemberId = data.JobsiteMemberId;
+                analytics.LoggedInState = TotalJobsGroup.Header.LoggedInStates[data.LoggedInState.toString()];
+            }
+
+            s.trackingServer = 'stepstone.d3.sc.omtrdc.net';
+s.pageName = analytics.PageName;
+s.events = analytics.SiteCatEvents;
+s.campaign = analLib.getCampaignCode(analytics.Campaign, document.referrer, document.URL);
+s.channel = 'Find-Jobs';
+s.prop1 = s.channel;
+s.prop4 = analytics.CompanyId;
+s.prop8 = analytics.CloudProviderName;
+s.prop9 = s.campaign;
+s.prop25 = analytics.TravelTimeFeatureUsed;
+s.prop40 = analytics.CompanyName;
+s.prop52 = analytics.ABTestingCampaign + analytics.ABTestingVersion ? analytics.ABTestingCampaign + '_' + analytics.ABTestingVersion : null;
+s.prop55 = analytics.OcaOptIn;
+s.prop63 = analytics.SearchType;
+s.prop71 = analytics.AtsIntegrationStatus;
+s.prop72 = analytics.ApplyFormState;
+s.eVar1 = analytics.LoggedInState;
+s.eVar3 = analLib.getInternalCampaignCodeFromURL('INHSE', document.URL);
+s.eVar4 = s.eVar3;
+s.eVar5 = s.channel;
+s.eVar7 = analytics.ApplyFormType;
+s.eVar8 = analytics.RecommendedJobDetails;
+s.eVar17 = analytics.JobLocation;
+s.eVar18 = analytics.JobCity;
+s.eVar19 = analytics.JobPostcode;
+s.eVar20 = analytics.IndustrySectors;
+s.eVar23 = s.pageName;
+s.eVar25 = analytics.JobContractTypes;
+s.eVar26 = analytics.JobSalary;
+s.eVar27 = analytics.PostingMethod;
+s.eVar28 = analytics.CompanyId;
+s.eVar29 = analytics.JobId;
+s.eVar30 = analytics.MemberId;
+s.eVar33 = analytics.JobTitle;
+s.eVar34 = analytics.CompanyName;
+s.eVar35 = analytics.CompanyType;
+s.eVar36 = analytics.TemplateType;
+s.eVar39 = analytics.DynamicCreativeViewCounts;
+s.eVar40 = analytics.NormalisedJobTitles;
+s.eVar52 = s.prop52;
+s.eVar53 = s.campaign;
+s.eVar54 = analytics.SearchType;
+s.eVar58 = s.campaign;
+s.eVar59 = analytics.ApplyFormType;
+s.eVar61 = s.campaign;
+s.eVar62 = s.campaign;
+s.eVar85 = analytics.SourceSiteName;
+s.list1 = analytics.IndustrySectors;
+s.list2 = analytics.Disciplines;
+s.list3 = analytics.SubDisciplines;
+analLib.fireMultiApplication(analytics, s);
+analLib.prepareMobileTrackingCode(s);
+
+
+            var s_code = s.t();
+            if (s_code) { document.write(s_code); }
+        });
+
+        TotalJobsGroup.Analytics.setMilkroundSubChannel();
+    });
+</script>
+<noscript>&lt;img src="//stepstone.d3.sc.omtrdc.net/b/ss/stepstone-tjg-cw-uk/1/H.25.2--NS/0?pageName=/job/40970944/apply&amp;[AQB]&amp;cdp=4&amp;[AQE]" height="1" width="1" border="0" alt=""/&gt;</noscript>
+<!-- END APPMEASUREMENT CODE -->
+    <div id="saved-job-toast" style="display:none">  <div id="saved-job-toast-title">Saved job(s)</div>  <div id="saved-job-toast-link">      <a href="/savedjobs/">View saved jobs</a>  </div>  <div id="saved-job-toast-text">To view your saved jobs on any device, <a href="/Authenticated/Login.aspx">log in</a> or <a href="/Authenticated/UnAuth/NewUser.aspx">register</a>.</div></div><div class="kxhead" data-id="JEiQXR0_" style="display:none !important;"><span class="kxtag kxinvisible" data-id="17614"><script>
+// Using Globals analytics.SiteCatEvents to produce page attribute analytics.SiteCatalystEvents
+Krux('scrape', { "page_attr_analytics.SiteCatalystEvents": {js_global: "analytics.SiteCatEvents"}});
+
+if (window.analytics &amp;&amp; window.analytics.ApplicationEvents &amp;&amp; window.analytics.ApplicationEvents.indexOf('event43') &gt; -1) {
+  Krux('set', 'page_attr_analytics.SiteCatalystEvents', 'application');
+}
+</script></span><span class="kxtag kxinvisible" data-id="17625"><script>
+// Using Globals analytics.JobTypes to produce page attribute analytics.JobTypes
+Krux('scrape', { "page_attr_analytics.JobTypes": {js_global: "analytics.JobTypes"}});
+</script></span><span class="kxtag kxinvisible" data-id="17653"><script type="text/javascript">
+Krux('scrape', { "page_attr_analytics.Campaign": {js_global: "analytics.Campaign"}});
+</script></span><span class="kxtag kxinvisible" data-id="17658"><script>
+if (window.analytics &amp;&amp; window.analytics.JobId) {
+  Krux('set', 'page_attr_analytics.Details_Disciplines', analytics.Disciplines);
+  Krux('set', 'page_attr_analytics.Details_SubDisciplines', analytics.SubDisciplines);
+  Krux('set', 'page_attr_analytics.Details_NormalisedJobTitle', analytics.NormalisedJobTitle);
+}
+</script></span><span class="kxtag kxinvisible" data-id="17607"><script>
+// this tag is intentionally blank
+</script></span><span class="kxtag kxinvisible" data-id="17608"></span><span class="kxtag kxinvisible" data-id="17611"><script>
+Krux('scrape', { "user_attr_analytics.MemberId": {js_global: "analytics.MemberId"}});
+if(typeof window.s =='object' &amp;&amp; window.s['eVar17']!=undefined){
+  Krux('set', 'page_attr_omniture_evar17', typeof window.s =='object' &amp;&amp; window.s['eVar17']);
+}
+if(typeof window.s =='object' &amp;&amp; window.s['eVar18']!=undefined){
+  Krux('set', 'page_attr_omniture_evar18', typeof window.s =='object' &amp;&amp; window.s['eVar18']);
+}
+if(typeof window.s =='object' &amp;&amp; window.s['eVar20']!=undefined){
+  Krux('set', 'page_attr_omniture_evar20', typeof window.s =='object' &amp;&amp; window.s['eVar20']);
+}
+if(typeof window.s =='object' &amp;&amp; window.s['eVar26']!=undefined){
+  Krux('set', 'page_attr_omniture_evar26', typeof window.s =='object' &amp;&amp; window.s['eVar26']);
+}
+if(typeof window.s =='object' &amp;&amp; window.s['eVar34']!=undefined){
+  Krux('set', 'page_attr_omniture_evar34', typeof window.s =='object' &amp;&amp; window.s['eVar34']);
+}
+if(typeof window.s =='object' &amp;&amp; window.s['eVar33']!=undefined){
+  Krux('set', 'page_attr_omniture_evar33', typeof window.s =='object' &amp;&amp; window.s['eVar33']);
+}
+
+function getParam(param) {
+  param_value = '';
+  raw_url = document.location.href;
+  if(raw_url.indexOf('?') &gt; 0) {
+    url_params = raw_url.split('?');
+    indi_params = url_params[1].split('&amp;');
+    for(i=0;i&lt;indi_params.length;i++) {
+      if(indi_params[i].indexOf(param+'=') == 0) {
+        if(indi_params[i].indexOf('#') &gt; 0) {
+          param_value = indi_params[i].substring(param.length+1,indi_params[i].indexOf('#'));
+        } else {
+          param_value = indi_params[i].substr(param.length+1);
+        }
+      }
+    }
+  } else {
+    param_value = '';
+  }
+  return param_value;
+}
+
+if(getParam('Keywords').length &gt; 0) {
+  Krux('set', 'page_attr_query_keywords', getParam('Keywords'));
+}
+if(getParam('LTxt').length &gt; 0) {
+  Krux('set', 'page_attr_query_location', getParam('LTxt'));
+}
+if(getParam('Rate').length &gt; 0) {
+  Krux('set', 'page_attr_query_salary', getParam('Rate'));
+}
+if(getParam('RateType').length &gt; 0) {
+  Krux('set', 'page_attr_query_salarytype', getParam('RateType'));
+}
+</script></span><span class="kxtag kxinvisible" data-id="17613"><script>
+(function(){
+  var kuid = Krux('get', 'user');
+  if (kuid) {
+      var liveramp_url = 'https://idsync.rlcdn.com/379708.gif?partner_uid=' + kuid;
+      var i = new Image();
+      i.src = liveramp_url;      
+  }
+})();
+</script></span><span class="kxtag kxinvisible" data-id="17801"><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+<script type="text/javascript">
+(function(){
+  var axel = Math.random() + "";
+  var a = axel * 10000000000000;
+  var brand = window.Krux ? window.encodeURIComponent(window.Krux("get", "site")) : "";
+  var disciplines = ['','',''];
+  var subdisciplines = ['','',''];
+  var loggedIn = 'No';
+  var FERU = 'No';
+  var jobLocation = '';
+  var retargetable = '';
+  var retargetableType = '';
+  var ABTestGroup = '';
+  var Sector = '';
+  var Campaign = '';
+  if (window.analytics) {
+    if (window.analytics.Disciplines) {
+      var disciplinesSplit = window.analytics.Disciplines.split('|');
+      for (var i = 0; i &lt; disciplinesSplit.length &amp;&amp; i &lt; 3; i++)
+        disciplines[i] = window.encodeURIComponent(disciplinesSplit[i]);
+    }
+    if (window.analytics.SubDisciplines) {
+      var subdisciplinesSplit = window.analytics.SubDisciplines.split('|');
+      for (var i = 0; i &lt; subdisciplinesSplit.length &amp;&amp; i &lt; 3; i++)
+        subdisciplines[i] = window.encodeURIComponent(subdisciplinesSplit[i]);
+    }
+    if (window.analytics.Sectors &amp;&amp; window.analytics.Sectors.indexOf('Graduate') &gt; -1)
+      Sector = 'Graduate';
+    if (window.analytics.Campaign)
+      Campaign = window.encodeURIComponent(window.analytics.Campaign);
+    if (window.analytics.LoggedInState &amp;&amp; window.analytics.LoggedInState != "Anonymous")
+      loggedIn = 'Yes';
+    if (window.analytics.SiteCatEvents &amp;&amp; window.analytics.SiteCatEvents.indexOf('event923') &gt; -1)
+      FERU = 'Yes';
+    if (window.analytics.City)
+      jobLocation = window.encodeURIComponent(window.analytics.City);
+    else if (window.analytics.SearchLocation)
+      jobLocation = window.encodeURIComponent(window.analytics.SearchLocation);
+    if (window.analytics.SiteCatEvents &amp;&amp; window.analytics.SiteCatEvents.indexOf('event14') &gt; -1)
+      retargetableType = 'Details';
+    else if (window.analytics.ApplicationEvents &amp;&amp; window.analytics.ApplicationEvents.indexOf('event43') &gt; -1)
+      retargetableType = 'Application';
+    else if (window.analytics.SiteCatEvents &amp;&amp; (window.analytics.SiteCatEvents.indexOf('event10') &gt; -1 || window.analytics.SiteCatEvents.indexOf('event11') &gt; -1))
+      retargetableType = 'Results';
+    else if (window.document.location.search &amp;&amp; /WT\.mc_id.*_Google_/i.test(window.document.location.search))
+      retargetableType = 'SearchReferral';
+    if (retargetableType != '')
+      retargetable = 'Yes';
+  }
+  document.write('&lt;scr' + 'ipt src="//5341923.fls.doubleclick.net/activityj;src=5341923;type=invmedia;cat=jybq2vo7;u1=' + brand + ';u4=' + disciplines[0] + ';u5=' + subdisciplines[0] + ';u2=' + loggedIn + ';u3=' + FERU + ';u9=' + jobLocation + ';u10=' + retargetable + ';u11=' + retargetableType + ';u12=' + disciplines[1] + ';u13=' + disciplines[2] + ';u14=' + subdisciplines[1] + ';u15=' + subdisciplines[2] + ';u16=' + ABTestGroup + ';u18=' + Sector + ';u19=' + Campaign + ';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" type="text/javascript"&gt;&lt;/scr' + 'ipt&gt;');
+  
+  var google_custom_params = google_custom_params || {};
+  if (window.analytics) {
+    google_custom_params.loggedinuser = (window.analytics.LoggedInState == "Anonymous" ? false : true);
+  }
+  google_custom_params.ABTestGroup = 'D';
+  if (window.google_trackConversion &amp;&amp; brand === 'Totaljobs') {
+    window.google_trackConversion({
+      google_conversion_id: 1056493269,
+      google_conversion_format: "3",
+      google_conversion_label: "RLCgCMOC4QEQ1Z3j9wM",
+      google_remarketing_only: true,
+      google_custom_params: google_custom_params
+    });
+  }
+})();
+</script><script src="//5341923.fls.doubleclick.net/activityj;src=5341923;type=invmedia;cat=jybq2vo7;u1=CWJobs;u4=Media;u5=Media-Media;u2=No;u3=No;u9=;u10=;u11=;u12=;u13=;u14=;u15=;u16=;u18=;u19=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=5910233507812.888?" type="text/javascript"></script>
+</span><span class="kxtag kxinvisible" data-id="6"><script>
+(function() {
+  if (Krux('get', 'user') != null) {
+      new Image().src = 'https://usermatch.krxd.net/um/v2?partner=google';
+  }
+})();
+</script></span><span class="kxtag kxinvisible" data-id="71"><script>
+(function(){
+        var kuid = Krux('get', 'user');
+        if (kuid) {
+            var prefix = location.protocol == 'https:' ? "https:" : "http:";
+            var kurl = prefix + '//beacon.krxd.net/usermatch.gif?adnxs_uid=$UID';
+            var appnexus_url = '//ib.adnxs.com/getuid?' + kurl
+            var i = new Image();
+            i.src = appnexus_url;
+        }
+})();
+</script></span><span class="kxtag kxinvisible" data-id="66"><script>
+(function(){
+  var prefix = window.location.protocol == 'https:' ? 'https' : 'http';
+  var partner_url = prefix +'://pix.impdesk.com/csync/krux';
+  new Image().src = partner_url;
+})();
+</script></span><span class="kxtag kxinvisible" data-id="17804"><script type="text/javascript">
+(function(){
+  if (window.analytics &amp;&amp; window.analytics.SiteCatEvents &amp;&amp; window.analytics.SiteCatEvents.indexOf('event923') &gt; -1) {
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    var brand = window.encodeURIComponent(Krux("get", "site"));
+  
+	document.write('&lt;scr' + 'ipt src="//5341923.fls.doubleclick.net/activityj;src=5341923;type=invmedia;cat=yrvk1ccq;u1=' + brand + ';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" type="text/javascript"&gt;&lt;/scr' + 'ipt&gt;');
+	
+    var tag = {"Totaljobs" : "jmgehku1", "CWJobs" : "jw8cgvtu", "Caterer" : "yxnn2dmc", "CareerStructure" : "msu0jcgt", "Retailchoice" : "glumtqhh", "Milkround" : "wk8ljsfq"};
+    document.write('&lt;scr' + 'ipt src="//5341923.fls.doubleclick.net/activityj;src=5341923;type=invmedia;cat=' + tag[brand] + ';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" type="text/javascript"&gt;&lt;/scr' + 'ipt&gt;');
+
+    if (brand == "Totaljobs" &amp;&amp; window.google_trackConversion) {
+      window.google_trackConversion({
+        google_conversion_id: 1036593523,
+        google_conversion_language: "en",
+        google_conversion_format: "3",
+        google_conversion_color: "ffffff",
+        google_conversion_label: "1ehOCJqL73IQ89Kk7gM",
+        google_remarketing_only: false
+      });
+    }
+  }
+})();
+</script></span><span class="kxtag kxinvisible" data-id="17805"><script>
+(function() {
+  if (Krux('get', 'user') != null) {
+      new Image().src = 'https://usermatch.krxd.net/um/v2?partner=google';
+  }
+})();
+</script></span><span class="kxtag kxinvisible" data-id="19940"><script>
+if ((window.analytics &amp;&amp; window.analytics.LoggedInState &amp;&amp; !(window.analytics.LoggedInState == '' || window.analytics.LoggedInState == 'Anonymous')) || 
+   (window.digitalData &amp;&amp; window.digitalData.visitorStatus &amp;&amp; !(window.digitalData.visitorStatus == '' || window.digitalData.visitorStatus == 'anonymous'))) {
+  Krux('set', 'page_attr_analytics.RegisteredOnSite', Krux('get', 'site'));
+}
+</script></span></div></body><iframe id="kx-proxy-JEiQXR0_" src="https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=JEiQXR0_&amp;kxt=https%3A%2F%2Fwww.cwjobs.tjgpat.io&amp;kxcl=cdn&amp;kxp=" style="display: none; visibility: hidden; height: 0; width: 0;"></iframe></html>

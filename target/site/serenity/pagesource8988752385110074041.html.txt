@@ -1,0 +1,51 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <title>Cloud Picker</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="robots" content="noindex, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/72765f1a-1b8c-4a35-9e76-e31450b9f02e.css" />         
+        <link type="text/css" rel="stylesheet" href="/cloudpicker/bundles/cw.css?v=sUnhTAGiFjRO-NEilk1L4JMGt3Cfb-CsNz_46uqLEj41" />
+
+        <script src="/cloudpicker/bundles/scripts.js?v=trMk2fyBNNK6tp5f3pEGbDy7AcOZ_S8vJoBVmux9e4Q1"></script>
+
+    </head>
+    <body class="no-scroll modal-open"><div class="modal in" id="loader" tabindex="-1" role="dialog" aria-hidden="false" style="display: block;"></div>
+        <div id="main" style="display: block;">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-logo"></div>
+                    <div class="content">
+                        <div class="intro">
+                            <h2>Choose your file</h2>
+                            <p>We accept Microsoft Word, Adobe PDF and Rich Text Format. Maximum file size 1MB.</p>
+                        </div>                    
+                        <div id="backNav" class="back-nav" parentpath=""><button id="btnBack" class="btn btn-default btn-sm pull-left" style="display:none;">&lt; Back</button><div class="pull-left">Files</div></div><div id="foldersAndFiles"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <div id="select-file-row" class="button-row clearfix affix-top">
+                            <button id="btnCancel" class="btn btn-default pull-left">Cancel</button>
+                            <button id="btnSelect" type="button" class="btn btn-lg btn-primary pull-right" disabled="disabled">Attach</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!-- APPMEASUREMENT CODE -->
+<script type="text/javascript">var s_account='stepstone-tjg-cw-uk';</script>
+<script type="text/javascript" src="/CDNCached/AppMeasurementCustom.min.js"></script>
+<script type="text/javascript">s.trackingServer = 'stepstone.d3.sc.omtrdc.net';
+s.pageName = document.url;
+</script>
+<script type="text/javascript">
+var s_code=s.t();if (s_code)document.write(s_code);if(navigator.appVersion.indexOf('MSIE')&gt;=0)document.write(unescape('%3C')+'\!-'+'-');
+</script>
+<noscript>&lt;img src="//stepstone.d3.sc.omtrdc.net/b/ss/stepstone-tjg-cw-uk/1/H.25.2--NS/0?pageName=/googledrive&amp;[AQB]&amp;cdp=4&amp;[AQE]" height="1" width="1" border="0" alt=""/&gt;</noscript>
+<!-- END APPMEASUREMENT CODE -->
+
+<div class="modal-backdrop  in"></div></body></html>

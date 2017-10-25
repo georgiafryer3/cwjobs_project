@@ -1,0 +1,147 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB"><head><title></title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />        <link rel="stylesheet" href="https://cdn01.boxcdn.net/_assets/css/section_templ_webviews_login_oauth_consent-9_ljhT.css" /> <link rel="stylesheet" href="https://cdn01.boxcdn.net/_assets/css/webviews/webviews_image_ios-_ORMpz.css" />  <script type="text/javascript">var request_token = '9b136f28364ca7cfcf04c0c28ec251feb3b570dfd094db9d49abb88234faa344'; var site_root = '/';</script></head><!--[if IE 7]><body class="ie ie7 lte_ie9 lte_ie8 body device_" data-device=""><![endif]--><!--[if IE 8]><body class="ie ie8 lte_ie9 lte_ie8 body device_" data-device=""><![endif]--><!--[if IE 9]><body class="ie ie9 lte_ie9 body device_" data-device=""><![endif]--><!--[if gt IE 9]><body class="ie body device_" data-device=""><![endif]--><!--[if !IE]><!--><body class="body device_" data-device=""><!--<![endif]-->  
+
+
+
+<div class="header_wrapper">
+
+    
+    <img alt="Box Logo" class="box_logo" src="https://cdn01.boxcdn.net/_assets/img/new_box_logo-t7VwmA.png" />
+</div>
+
+<div class="service_logo_container">
+    <div class="float_content_centered_outer_container">
+        <div class="float_content_centered_inner_container">
+            <div class="service_logo_inner_container">
+                <img class="service_logo" src="https://app.box.com/index.php?rm=pic_storage_auth&amp;pic=euks!pac3kv01!MLpUd3zqtVQ32Kuy23g5fkOz99co7diKozlS62_QO-lAjLixgeherOmoGbWRNQoQIw_u2_m6WMMTeMsELAalIJKdSF99osGkPWvVh0KWPl65dp7IO_C7E-nNxJodHMPb9JgTdrhYSd6C16nYZcj0Nr2Sp4J5dDeWo_S5Zfn-rMr0RS5UToZUtbLw0HED4tQHE1_jIjSnckcYs0W-oMM4KkTKC5eVu58lxWp1giYByvHLxrZdwnBYTcbRqzot2fHkxbANDbiTkJiqULHDsurkVhQXQi9wlO0hfKlZ8J6Oh5A8M913OSo7_Bcofd0RIdyW" alt="Logo for Cwjobs FilePicker" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="content_wrapper pbl">
+	<div class="fw webview app_form med_app_form oauth">
+		<div class="content center_contents">
+			<div class="section form_section center">
+				<p class="consent_message">
+					
+					
+					
+					
+					
+					With access to your automationproject33@gmail.com Box account, <strong>Cwjobs FilePicker</strong> can:
+				</p>
+				<ul class="basic_list bulleted_list">
+					
+						<li>
+							Read and write all files and folders stored in Box
+						</li>
+					
+				</ul>
+
+				<form action="https://app.box.com/api/oauth2/authorize?a=lacLiveV1%21KxGRf45_P-hH9uQh0tgr5AYqkKJVXusZVcAIldBdRxBFS5FffOnftLPRF4rrcE8EMoQauCLSL0Wvg7DjCTCDXH35pBiKyo4zf6LhbpMouYDsZiIHus0loY4Jp6kFZ0yDbXQnaMknU5QXqfQSgeViFxPlQ4jV3VM3RDFuRHO8ndOdSH6Pr70dOBy5KCRN3Lk657znTxNep3hUWQOcWybqM_L2fppyneDrfQxcxR67MadFxivLl6Ec6yXXVVQUYhFuN7wJmaxyU7fMD_iGh_B0p9k2cBhV6D6GOQ7FYyN33g9zeMDDDsD8c08jImo1GFdpwKMWq6_gRZBxIACgLHbX6LOF6IJS4Sk7NBMbaCTKlXtjo5nimSKBEQ7jxPiT_XzyDNN0MBEMcD2hf78Wa6jTYuH9p3k2Tc9Sw_9khtrL7hArrlwTroOkMPiiNC6FhkBg2rSN2aic2sHwT22S54SRkIYANobkuggIOylV__KhjquDZC6otdYy34m1pEqpeuXqAGg3YQGtmnhqTkBnZHaFRzmO6o1YRiSmyqN4KJ5RU0dHuLPhUul4DHUd9-80fpCMJaU1K4n4NlLUJVIf8JMA2q5qvN7RHQt375WlCjmd6X37hvk9FSQZouCXiLDzP-eV_RZGbXcs2EXnYAl_YkXOo6usXWbLX_0xjCX0A7bOTqQ0O9InChG5Aorki2dYCbW07Yo2FUUT0TCNhTf-i9tSO3fcfWGKAH3E65EiVRfsx5QUu5s9XnxQ7DxSRQ1rXsxVZSEjqI3c1AoYaOtk9yIoign-e_6Tv20MSi8d0_YTUKZbelmLhzAAbDiD4k4EQbPSDrsruCH0jTvly0Lb97i-tFCZffRN2P-oMrigw3sZAenCRPc8WeNvwh9J4bCfpEJXQUG2mBp0oBP5Ep4Neho27YBsgf9LV1LqyAP8SCjVR2FZv8GKDfXUexKVY8bXaclLXABEdxGP0I6r8UCvGFK2bE6jjXj79NtCDMT-9nszJOTk7Mp-om33JrvtWfpOGFg4Cyjlvax1DX3tTBKsn6WiNgKbJAw3z2_E3-QFX_zTgjGyoHThrbvBlAmI0jTtuA_kqH5Urvea2KxT8Ly45VVAv77RyDQm-k8BKndElT8hrV_tbxW2Jv6_FLe1cC22iqeZKTuQoZYz4VoCWGRpaGiZJFBqE25zFjbqY1nnW-cSq3m63M7Zrw4Kp22n_LP8K3jPU3_a6eHgS9LytwvRG3apYwrwvl61oj1JQeT-H72dvmVtcFpZE_frWfDkFoK_rXxdFOqyucfvVmHJU5oT9msswizdwi6l5ZAcwIOo5K4bR-DwdO83N6YkkXq8dkuW1xoF-6l8gdGWD8XUW6xAZix_m-TlI26SmOkEoR8NPzojjSiZEemeZShpfSbtVLD2vGWrpmh-WLoBtUZyGQFAscK448hrC5oZ2ysd5lyiphQXaZ58RYQDE_6hOF4r0eHpNdo." method="post" name="consent_form" id="consent_form">
+					<input type="hidden" name="client_id" value="m02px7ohsgdawy78pdbhylwweuy3dip9" />
+					<input type="hidden" name="response_type" value="code" />
+					<input type="hidden" name="redirect_uri" value="https://1iyezmtd34181-cwjobs-box.ceproxy.co.uk/production" />
+					<input type="hidden" name="scope" value="root_readwrite" />
+					<input type="hidden" name="folder_id" value="" />
+					<input type="hidden" name="file_id" value="" />
+					<input type="hidden" name="parent_token" value="" />
+					<input type="hidden" name="parent_service_id" value="" />
+					<input type="hidden" name="service_action_id" value="" />
+					
+					<input type="hidden" name="state" value="e81ff354-aa15-4974-bbd7-68aa28e0c6ac" />
+					
+					<input type="hidden" name="doconsent" value="doconsent" />
+					<input type="hidden" name="ic" value="9a39e0171a4e55e092f8af31ee5cb2d151d4cc5b05eb9ee985693e49a2f78daf" />
+
+					<div id="login_content" class="field_set login pal">
+
+						
+
+						<div class="login_submit_div">
+							<button id="consent_accept_button" name="consent_accept" class="btn btn-primary mhn login_submit fw lh32 ram" title="Grant access to Box" value="Grant access to Box" type="submit">
+								<span class="inset_text submit">Grant access to Box</span>
+								<span class="inset_text in_progress">Granting access to Box...</span>
+							</button>
+							<input type="submit" style="display: none;" />
+						</div>
+
+						<div class="additional_options center_contents">
+							<div class="mvl">
+								
+								<input id="consent_reject_button" name="consent_reject" type="submit" class="btn-plain" value="Deny access to Box" />
+							</div>
+						</div>
+
+					</div>
+				<input type="hidden" name="request_token" style="display: none;" value="9b136f28364ca7cfcf04c0c28ec251feb3b570dfd094db9d49abb88234faa344" /></form>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+<div class="footer">
+	©2017 Box
+</div>
+
+  <script type="text/javascript" src="https://cdn01.boxcdn.net/_assets/js/translations/en-GB-qcjCTi.js"></script>     <script type="text/javascript" src="https://cdn01.boxcdn.net/_assets/js/section_templ_webviews_login_oauth_consent-n_Vp8V.js"></script>    <script>
+
+
+(function() {
+
+
+	window.Box = window.Box || {};
+
+	
+	
+	window.initialConfig = null || {};
+	window.initialConfig.debug = 0;
+	window.initialConfig.browser_is_old = 1;
+	
+	
+	
+	window.initialConfig.initialJSHashes = ["Z7FrE","wsz8k","ch77x","TXwG1","1og2L","814jR","h7xMq"];
+	
+	window.initialConfig.initialCSSHashes = ["iMVyy","F5PHY","LVtBB","TsZ4M","f4Wc3","wvuQo"];
+
+	
+	window.initialConfig.cookieDomain = '.app.box.com';
+	window.initialConfig.cookieRootDomain = '.box.com';
+
+	
+	
+	window.initialConfig.vitalOpenboxActions = null;
+
+	window.initialConfig.useConnectionDiagnosticsMirror = false;
+
+	
+  window.initialConfig.adobeEnv = null;
+
+  
+  window.initialConfig.emitTranslationTags = 0;
+
+	
+	window.initialConfig.datacenterTag = 'sv2';
+
+	
+	window.initialConfig.isBoxEditAllowed = 0;
+	
+	window.initialConfig.isBoxEditFallbackEnabled = 0;
+	window.initialConfig.useUnSecureUrlForComServer = 0;
+	
+	window.initialConfig.isOfficeOnlineAllowed = 0;
+
+	
+	window.initialConfig.showResinTagTracker = 0;
+	window.initialConfig.locale = '';
+
+	window.Box.config = window.initialConfig; // Shim for Amsterdam code
+
+
+})();
+
+</script>
+</body></html>

@@ -12,7 +12,7 @@ public class ApplicationSteps extends ScenarioSteps {
     RegisterApplyPage registerApplyPage;
 
     @Step
-    public void applyAndRegister(Candidate candidate) throws IOException {
+    public void applyAndRegister(Candidate candidate) throws InterruptedException {
         registerApplyPage.applyForm(candidate);
     }
 }

@@ -40,6 +40,10 @@ public class RegisterApplyPage extends PageObject {
         return element(By.id("btnCVUpload"));
     }
 
+    public WebElementFacade uploadCV2() {
+        return element(By.id("localCV"));
+    }
+
     public WebElementFacade uploadFromDevice() {
         return element(By.cssSelector(".file-upload"));
     }
@@ -52,7 +56,7 @@ public class RegisterApplyPage extends PageObject {
         return element(By.cssSelector(".dropdown-menu"));
     }
 
-    public WebElement firstNameInput() {
+    public WebElementFacade firstNameInput() {
         return element(By.id("txtFirstname"));
     }
 
@@ -100,7 +104,7 @@ public class RegisterApplyPage extends PageObject {
         return element(By.id("btnSubmit"));
     }
 
-    public void applyForm(Candidate candidate) throws IOException {
+    public void applyForm(Candidate candidate) throws InterruptedException {
 
         emailAddressInput().typeAndEnter(candidate.getEmailAddress());
         //nextButton().click();
@@ -108,16 +112,23 @@ public class RegisterApplyPage extends PageObject {
         confirmPasswordInput().sendKeys("jobsite1");
         continueButton().click();
 
-        cvContainer().waitUntilVisible();
-        uploadCV().click();
-        //waitFor
-        uploadFromDevice().click();
+        Thread.sleep(1000);
 
-        for (String CVwindow : getDriver().getWindowHandles()) {
-            getDriver().switchTo().window(CVwindow);
-        }
+        uploadCV2().sendKeys("C:\\Users\\fryerg01\\Documents\\Dummy CVs\\PA_spa.docx");
 
-        Runtime.getRuntime().exec("C:\\Tools\\FileUpload.exe");
+        firstNameInput().waitUntilEnabled();
+        //uploadCV().waitUntilVisible();
+//        waitFor(3000);
+//        uploadCV().click();
+//        //waitFor
+//        uploadFromDevice().click();
+//
+//        for (String CVwindow : getDriver().getWindowHandles()) {
+//            getDriver().switchTo().window(CVwindow);
+//        }
+//
+//        Runtime.getRuntime().exec("C:\\Tools\\FileUpload.exe");
+
         assertThat(uploadCVSuccess().isVisible());
 
         firstNameInput().sendKeys("Georgia");

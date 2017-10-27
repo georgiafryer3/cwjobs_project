@@ -19,7 +19,7 @@ public class ActionDefinitions {
     ApplicationSteps applicationSteps;
 
     @When("a candidate applies for a job")
-    public void searchJob() throws IOException {
+    public void searchJob() throws InterruptedException {
         searchSteps.searchJob();
         applicationSteps.applyAndRegister(getCandidate());
     }

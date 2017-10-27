@@ -16,7 +16,7 @@ public class SearchSteps extends ScenarioSteps {
     public void searchJob(){
         //homepage.searchJob().sendKeys("cw250210");
         homepage.searchButton().click();
-        searchResultsPage.allJobTitles().get(0).click();
+        searchResultsPage.allJobTitles().get(3).click();
         vacancyPage.applyButton().click();
     }
 }

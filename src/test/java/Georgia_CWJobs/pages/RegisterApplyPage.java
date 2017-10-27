@@ -6,8 +6,6 @@ import net.serenitybdd.core.pages.WebElementFacade;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import java.io.IOException;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class RegisterApplyPage extends PageObject {
@@ -117,17 +115,6 @@ public class RegisterApplyPage extends PageObject {
         uploadCV2().sendKeys("C:\\Users\\fryerg01\\Documents\\Dummy CVs\\PA_spa.docx");
 
         firstNameInput().waitUntilEnabled();
-        //uploadCV().waitUntilVisible();
-//        waitFor(3000);
-//        uploadCV().click();
-//        //waitFor
-//        uploadFromDevice().click();
-//
-//        for (String CVwindow : getDriver().getWindowHandles()) {
-//            getDriver().switchTo().window(CVwindow);
-//        }
-//
-//        Runtime.getRuntime().exec("C:\\Tools\\FileUpload.exe");
 
         assertThat(uploadCVSuccess().isVisible());
 

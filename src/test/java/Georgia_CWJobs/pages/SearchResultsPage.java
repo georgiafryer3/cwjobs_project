@@ -12,4 +12,8 @@ public class SearchResultsPage extends PageObject {
         return findAll(By.cssSelector(".job-title>a>h2"));
     }
 
+    public WebElementFacade jobTitleName() {
+        return element(By.cssSelector(".job-title>a>h2"));
+    }
+
 }

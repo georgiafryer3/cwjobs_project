@@ -234,17 +234,17 @@ I want to look up word definitions</localizedNarrative>
                   <step>Given a candidate visits the site for the first time</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>Given a candidate visits the site for the first time</parametrisedStep>
-                  <durationInMillis>9101</durationInMillis>
-                  <start>1509109705367</start>
-                  <end>1509109714468</end>
+                  <durationInMillis>8606</durationInMillis>
+                  <start>1509363321149</start>
+                  <end>1509363329755</end>
                 </successful>
                 <successful>
                   <step>When a candidate applies for a job</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>When a candidate applies for a job</parametrisedStep>
-                  <durationInMillis>10907</durationInMillis>
-                  <start>1509109715572</start>
-                  <end>1509109726479</end>
+                  <durationInMillis>205096</durationInMillis>
+                  <start>1509363330959</start>
+                  <end>1509363536055</end>
                 </successful>
                 <pending>
                   <step>Then the candidate should be registered with a complete application</step>
@@ -275,7 +275,7 @@ I want to look up word definitions</localizedNarrative>
                       <c class="list"/>
                       <list/>
                     </suppressedExceptions>
-                    <uuid>b43c9977-4876-4e94-a5f6-f47fc3622e2a</uuid>
+                    <uuid>b8a61a01-5f1a-4023-8878-db0b608b1c37</uuid>
                   </throwable>
                   <durationInMillis>0</durationInMillis>
                   <start>0</start>
@@ -372,9 +372,9 @@ I want to look up word definitions</localizedNarrative>
       <beforeSteps/>
       <afterSteps/>
       <timing>
-        <durationInMillis>22333</durationInMillis>
-        <start>1509109705241</start>
-        <end>1509109727574</end>
+        <durationInMillis>215953</durationInMillis>
+        <start>1509363321015</start>
+        <end>1509363536968</end>
       </timing>
       <givenStory>false</givenStory>
     </performableStory>
@@ -471,17 +471,17 @@ I want to look up word definitions</localizedNarrative>
               <step>Given a candidate visits the site for the first time</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>Given a candidate visits the site for the first time</parametrisedStep>
-              <durationInMillis>9101</durationInMillis>
-              <start>1509109705367</start>
-              <end>1509109714468</end>
+              <durationInMillis>8606</durationInMillis>
+              <start>1509363321149</start>
+              <end>1509363329755</end>
             </successful>
             <successful>
               <step>When a candidate applies for a job</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>When a candidate applies for a job</parametrisedStep>
-              <durationInMillis>10907</durationInMillis>
-              <start>1509109715572</start>
-              <end>1509109726479</end>
+              <durationInMillis>205096</durationInMillis>
+              <start>1509363330959</start>
+              <end>1509363536055</end>
             </successful>
             <pending>
               <step>Then the candidate should be registered with a complete application</step>
@@ -512,7 +512,7 @@ I want to look up word definitions</localizedNarrative>
                   <c class="list"/>
                   <list/>
                 </suppressedExceptions>
-                <uuid>b43c9977-4876-4e94-a5f6-f47fc3622e2a</uuid>
+                <uuid>b8a61a01-5f1a-4023-8878-db0b608b1c37</uuid>
               </throwable>
               <durationInMillis>0</durationInMillis>
               <start>0</start>

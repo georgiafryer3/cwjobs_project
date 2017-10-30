@@ -102,6 +102,10 @@ public class RegisterApplyPage extends PageObject {
         return element(By.id("btnSubmit"));
     }
 
+    public WebElementFacade confirmationMessage() {
+        return element(By.cssSelector(".brand-casing.brand-font"));
+    }
+
     public void applyForm(Candidate candidate) throws InterruptedException {
 
         emailAddressInput().typeAndEnter(candidate.getEmailAddress());
@@ -128,4 +132,6 @@ public class RegisterApplyPage extends PageObject {
         employersFindMeCheckbox().click();
         submitButton().click();
     }
+
+
 }

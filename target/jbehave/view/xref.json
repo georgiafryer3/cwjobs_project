@@ -277,17 +277,17 @@
                   "step": "Given a candidate visits the site for the first time",
                   "type": "SUCCESSFUL",
                   "parametrisedStep": "Given a candidate visits the site for the first time",
-                  "durationInMillis": 9101,
-                  "start": 1509109705367,
-                  "end": 1509109714468
+                  "durationInMillis": 8606,
+                  "start": 1509363321149,
+                  "end": 1509363329755
                 },
                 {
                   "step": "When a candidate applies for a job",
                   "type": "SUCCESSFUL",
                   "parametrisedStep": "When a candidate applies for a job",
-                  "durationInMillis": 10907,
-                  "start": 1509109715572,
-                  "end": 1509109726479
+                  "durationInMillis": 205096,
+                  "start": 1509363330959,
+                  "end": 1509363536055
                 },
                 {
                   "step": "Then the candidate should be registered with a complete application",
@@ -319,7 +319,7 @@
                       [],
                       []
                     ],
-                    "uuid": "b43c9977-4876-4e94-a5f6-f47fc3622e2a"
+                    "uuid": "b8a61a01-5f1a-4023-8878-db0b608b1c37"
                   },
                   "durationInMillis": 0,
                   "start": 0,
@@ -434,9 +434,9 @@
       "beforeSteps": {},
       "afterSteps": {},
       "timing": {
-        "durationInMillis": 22333,
-        "start": 1509109705241,
-        "end": 1509109727574
+        "durationInMillis": 215953,
+        "start": 1509363321015,
+        "end": 1509363536968
       },
       "givenStory": false
     }
@@ -551,17 +551,17 @@
               "step": "Given a candidate visits the site for the first time",
               "type": "SUCCESSFUL",
               "parametrisedStep": "Given a candidate visits the site for the first time",
-              "durationInMillis": 9101,
-              "start": 1509109705367,
-              "end": 1509109714468
+              "durationInMillis": 8606,
+              "start": 1509363321149,
+              "end": 1509363329755
             },
             {
               "step": "When a candidate applies for a job",
               "type": "SUCCESSFUL",
               "parametrisedStep": "When a candidate applies for a job",
-              "durationInMillis": 10907,
-              "start": 1509109715572,
-              "end": 1509109726479
+              "durationInMillis": 205096,
+              "start": 1509363330959,
+              "end": 1509363536055
             },
             {
               "step": "Then the candidate should be registered with a complete application",
@@ -593,7 +593,7 @@
                   [],
                   []
                 ],
-                "uuid": "b43c9977-4876-4e94-a5f6-f47fc3622e2a"
+                "uuid": "b8a61a01-5f1a-4023-8878-db0b608b1c37"
               },
               "durationInMillis": 0,
               "start": 0,

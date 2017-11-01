@@ -1,6 +1,6 @@
 #org.jbehave.core.embedder.StoryManager
-#Mon Oct 30 14:39:49 GMT 2017
-stories/candidate/ApplyAndRegister.story=49000
+#Wed Nov 01 15:47:46 GMT 2017
+stories/candidate/ApplyAndRegister.story=61000
 threads=1
-total=49000
-threadAverage=49000
+total=61000
+threadAverage=61000

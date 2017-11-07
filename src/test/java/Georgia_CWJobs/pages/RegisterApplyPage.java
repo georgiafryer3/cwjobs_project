@@ -7,6 +7,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.hamcrest.CoreMatchers.is;
+import static org.hamcrest.MatcherAssert.assertThat;
 
 public class RegisterApplyPage extends PageObject {
 
@@ -106,7 +108,13 @@ public class RegisterApplyPage extends PageObject {
         return element(By.cssSelector(".brand-casing.brand-font"));
     }
 
+    public WebElementFacade enterYourEmailAddress(){
+        return element(By.cssSelector(".section-heading"));
+    }
+
     public void applyForm(Candidate candidate) throws InterruptedException {
+
+        assertThat(enterYourEmailAddress().getText(), is("1.Enter your email address"));
 
         emailAddressInput().typeAndEnter(candidate.getEmailAddress());
         //nextButton().click();
@@ -132,6 +140,4 @@ public class RegisterApplyPage extends PageObject {
         employersFindMeCheckbox().click();
         submitButton().click();
     }
-
-
 }

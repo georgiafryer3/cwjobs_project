@@ -17,8 +17,30 @@
 <div class="scenario">
 <h2>Scenario: Apply for a vacancy and register</h2>
 <div class="step successful">Given a candidate visits the site for the first time</div>
-<div class="step successful">When a candidate applies for a job</div>
-<div class="step successful">Then the candidate should be registered with a complete application</div>
+<div class="step failed">When a candidate applies for a job <span class="keyword failed">(FAILED)</span><br/><span class="message failed">java.lang.AssertionError: 
+Expected: a string containing &quot;Project management&quot;
+     but: was &quot;Implementing, preparing and performing regular governance and reporting for key technology activities.&quot;</span></div>
+<div class="step notPerformed">Then the candidate should be registered with a complete application <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+<pre class="failure">java.lang.AssertionError: 
+Expected: a string containing &quot;Project management&quot;
+     but: was &quot;Implementing, preparing and performing regular governance and reporting for key technology activities.&quot;
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
+	at Georgia_CWJobs.steps.candidate.SearchSteps.searchJob(SearchSteps.java:33)
+	at Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2.CGLIB$searchJob$0(&lt;generated&gt;)
+	at Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2$$FastClassByCGLIB$$a7d48384.invoke(&lt;generated&gt;)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:395)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:380)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:355)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:132)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:61)
+	at Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2.searchJob(&lt;generated&gt;)
+	at Georgia_CWJobs.definitions.ActionDefinitions.searchJob(ActionDefinitions.java:21)
+	(reflection-invoke)
+	at org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:733)
+	at org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:346)
+...</pre>
 </div>
 </div>
 

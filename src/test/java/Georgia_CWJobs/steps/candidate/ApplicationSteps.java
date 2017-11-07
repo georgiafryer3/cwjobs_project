@@ -5,9 +5,6 @@ import Georgia_CWJobs.pages.RegisterApplyPage;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.containsString;
-
 public class ApplicationSteps extends ScenarioSteps {
 
     RegisterApplyPage registerApplyPage;

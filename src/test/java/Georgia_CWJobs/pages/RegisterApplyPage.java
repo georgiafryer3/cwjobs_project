@@ -117,12 +117,11 @@ public class RegisterApplyPage extends PageObject {
         assertThat(enterYourEmailAddress().getText(), is("1.Enter your email address"));
 
         emailAddressInput().typeAndEnter(candidate.getEmailAddress());
-        //nextButton().click();
         passwordInput().sendKeys("jobsite1");
         confirmPasswordInput().sendKeys("jobsite1");
         continueButton().click();
 
-        Thread.sleep(1000);
+        Thread.sleep(2000);
 
         uploadCV2().sendKeys("C:\\Users\\fryerg01\\Documents\\Dummy CVs\\PA_spa.docx");
 

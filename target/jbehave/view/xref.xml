@@ -140,7 +140,7 @@
 As a n English student
 I want to look up word definitions</localizedNarrative>
       <allowed>true</allowed>
-      <status>FAILED</status>
+      <status>SUCCESSFUL</status>
       <givenStories/>
       <scenarios>
         <performableScenario>
@@ -234,96 +234,26 @@ I want to look up word definitions</localizedNarrative>
                   <step>Given a candidate visits the site for the first time</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>Given a candidate visits the site for the first time</parametrisedStep>
-                  <durationInMillis>8695</durationInMillis>
-                  <start>1509715076310</start>
-                  <end>1509715085005</end>
+                  <durationInMillis>8739</durationInMillis>
+                  <start>1510227969089</start>
+                  <end>1510227977828</end>
                 </successful>
-                <failed>
+                <successful>
                   <step>When a candidate applies for a job</step>
-                  <type>FAILED</type>
-                  <throwable>
-                    <detailMessage>When a candidate applies for a job</detailMessage>
-                    <cause class="java.lang.AssertionError">
-                      <detailMessage>
-Expected: a string containing &quot;Project management&quot;
-     but: was &quot;Implementing, preparing and performing regular governance and reporting for key technology activities.&quot;</detailMessage>
-                      <stackTrace>
-                        <trace>org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)</trace>
-                        <trace>org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)</trace>
-                        <trace>Georgia_CWJobs.steps.candidate.SearchSteps.searchJob(SearchSteps.java:33)</trace>
-                        <trace>Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2.CGLIB$searchJob$0(&lt;generated&gt;)</trace>
-                        <trace>Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2$$FastClassByCGLIB$$a7d48384.invoke(&lt;generated&gt;)</trace>
-                        <trace>net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)</trace>
-                        <trace>net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:395)</trace>
-                        <trace>net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:380)</trace>
-                        <trace>net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:355)</trace>
-                        <trace>net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:132)</trace>
-                        <trace>net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:61)</trace>
-                        <trace>Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2.searchJob(&lt;generated&gt;)</trace>
-                        <trace>Georgia_CWJobs.definitions.ActionDefinitions.searchJob(ActionDefinitions.java:21)</trace>
-                        <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
-                        <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</trace>
-                        <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
-                        <trace>java.lang.reflect.Method.invoke(Method.java:498)</trace>
-                        <trace>org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:733)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:346)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1090)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:955)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:994)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:904)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:825)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:798)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:422)</trace>
-                        <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:393)</trace>
-                        <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:292)</trace>
-                        <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)</trace>
-                        <trace>java.util.concurrent.FutureTask.run(FutureTask.java:266)</trace>
-                        <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)</trace>
-                        <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)</trace>
-                        <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                      </stackTrace>
-                      <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                        <c class="list"/>
-                        <list/>
-                      </suppressedExceptions>
-                    </cause>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:752)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:346)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1090)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:955)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:994)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:904)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:825)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:798)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:422)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:393)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:292)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:266)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>b259c8bb-cd7f-4059-a079-04f2a574fd6a</uuid>
-                  </throwable>
+                  <type>SUCCESSFUL</type>
                   <parametrisedStep>When a candidate applies for a job</parametrisedStep>
-                  <durationInMillis>125681</durationInMillis>
-                  <start>1509715086171</start>
-                  <end>1509715211852</end>
-                </failed>
-                <notPerformed>
+                  <durationInMillis>13920</durationInMillis>
+                  <start>1510227979061</start>
+                  <end>1510227992981</end>
+                </successful>
+                <successful>
                   <step>Then the candidate should be registered with a complete application</step>
-                  <type>NOT_PERFORMED</type>
+                  <type>SUCCESSFUL</type>
                   <parametrisedStep>Then the candidate should be registered with a complete application</parametrisedStep>
-                  <durationInMillis>0</durationInMillis>
-                  <start>0</start>
-                  <end>0</end>
-                </notPerformed>
+                  <durationInMillis>61</durationInMillis>
+                  <start>1510227993651</start>
+                  <end>1510227993712</end>
+                </successful>
               </results>
             </steps>
             <afterSteps>
@@ -409,15 +339,15 @@ Expected: a string containing &quot;Project management&quot;
             </scenario>
           </normalPerformableScenario>
           <examplePerformableScenarios/>
-          <status>FAILED</status>
+          <status>SUCCESSFUL</status>
         </performableScenario>
       </scenarios>
       <beforeSteps/>
       <afterSteps/>
       <timing>
-        <durationInMillis>136384</durationInMillis>
-        <start>1509715076162</start>
-        <end>1509715212546</end>
+        <durationInMillis>25266</durationInMillis>
+        <start>1510227968991</start>
+        <end>1510227994257</end>
       </timing>
       <givenStory>false</givenStory>
     </performableStory>
@@ -514,96 +444,26 @@ Expected: a string containing &quot;Project management&quot;
               <step>Given a candidate visits the site for the first time</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>Given a candidate visits the site for the first time</parametrisedStep>
-              <durationInMillis>8695</durationInMillis>
-              <start>1509715076310</start>
-              <end>1509715085005</end>
+              <durationInMillis>8739</durationInMillis>
+              <start>1510227969089</start>
+              <end>1510227977828</end>
             </successful>
-            <failed>
+            <successful>
               <step>When a candidate applies for a job</step>
-              <type>FAILED</type>
-              <throwable>
-                <detailMessage>When a candidate applies for a job</detailMessage>
-                <cause class="java.lang.AssertionError">
-                  <detailMessage>
-Expected: a string containing &quot;Project management&quot;
-     but: was &quot;Implementing, preparing and performing regular governance and reporting for key technology activities.&quot;</detailMessage>
-                  <stackTrace>
-                    <trace>org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)</trace>
-                    <trace>org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)</trace>
-                    <trace>Georgia_CWJobs.steps.candidate.SearchSteps.searchJob(SearchSteps.java:33)</trace>
-                    <trace>Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2.CGLIB$searchJob$0(&lt;generated&gt;)</trace>
-                    <trace>Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2$$FastClassByCGLIB$$a7d48384.invoke(&lt;generated&gt;)</trace>
-                    <trace>net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)</trace>
-                    <trace>net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:395)</trace>
-                    <trace>net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:380)</trace>
-                    <trace>net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:355)</trace>
-                    <trace>net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:132)</trace>
-                    <trace>net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:61)</trace>
-                    <trace>Georgia_CWJobs.steps.candidate.SearchSteps$$EnhancerByCGLIB$$f86a94b2.searchJob(&lt;generated&gt;)</trace>
-                    <trace>Georgia_CWJobs.definitions.ActionDefinitions.searchJob(ActionDefinitions.java:21)</trace>
-                    <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
-                    <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</trace>
-                    <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
-                    <trace>java.lang.reflect.Method.invoke(Method.java:498)</trace>
-                    <trace>org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:733)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:346)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1090)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:955)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:994)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:904)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:825)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:798)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:422)</trace>
-                    <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:393)</trace>
-                    <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:292)</trace>
-                    <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)</trace>
-                    <trace>java.util.concurrent.FutureTask.run(FutureTask.java:266)</trace>
-                    <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)</trace>
-                    <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)</trace>
-                    <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                  </stackTrace>
-                  <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                    <c class="list"/>
-                    <list/>
-                  </suppressedExceptions>
-                </cause>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.StepCreator$ParametrisedStep.perform(StepCreator.java:752)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:346)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1090)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:955)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:994)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:904)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:825)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:798)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:422)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:393)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:292)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:266)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:266)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>b259c8bb-cd7f-4059-a079-04f2a574fd6a</uuid>
-              </throwable>
+              <type>SUCCESSFUL</type>
               <parametrisedStep>When a candidate applies for a job</parametrisedStep>
-              <durationInMillis>125681</durationInMillis>
-              <start>1509715086171</start>
-              <end>1509715211852</end>
-            </failed>
-            <notPerformed>
+              <durationInMillis>13920</durationInMillis>
+              <start>1510227979061</start>
+              <end>1510227992981</end>
+            </successful>
+            <successful>
               <step>Then the candidate should be registered with a complete application</step>
-              <type>NOT_PERFORMED</type>
+              <type>SUCCESSFUL</type>
               <parametrisedStep>Then the candidate should be registered with a complete application</parametrisedStep>
-              <durationInMillis>0</durationInMillis>
-              <start>0</start>
-              <end>0</end>
-            </notPerformed>
+              <durationInMillis>61</durationInMillis>
+              <start>1510227993651</start>
+              <end>1510227993712</end>
+            </successful>
           </results>
         </steps>
         <afterSteps>
@@ -689,7 +549,7 @@ Expected: a string containing &quot;Project management&quot;
         </scenario>
       </normalPerformableScenario>
       <examplePerformableScenarios/>
-      <status>FAILED</status>
+      <status>SUCCESSFUL</status>
     </performableScenario>
   </scenarios>
 </xref>

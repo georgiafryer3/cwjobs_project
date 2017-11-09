@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Lookup a definition" skipped="0" tests="1" time="135.69" timestamp="2017-11-03T13:17:56.195Z[Europe/London]"><testcase name="Apply for a vacancy and register"><failure message="&#10;Expected: a string containing &quot;Project management&quot;&#10;     but: was &quot;Implementing, preparing and performing regular governance and reporting for key technology activities.&quot;" type="java.lang.AssertionError">
-Expected: a string containing "Project management"
-     but: was "Implementing, preparing and performing regular governance and reporting for key technology activities."</failure><system-err>
-Expected: a string containing "Project management"
-     but: was "Implementing, preparing and performing regular governance and reporting for key technology activities."&#13;
-Georgia_CWJobs.steps.candidate.SearchSteps.searchJob(SearchSteps.java:33)&#13;
-Georgia_CWJobs.definitions.ActionDefinitions.searchJob(ActionDefinitions.java:21)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Lookup a definition" skipped="0" tests="1" time="24.98" timestamp="2017-11-09T11:46:09.024Z[Europe/London]"><testcase name="Apply for a vacancy and register"/></testsuite>

@@ -121,7 +121,7 @@ public class RegisterApplyPage extends PageObject {
         confirmPasswordInput().sendKeys("jobsite1");
         continueButton().click();
 
-        Thread.sleep(2000);
+        Thread.sleep(3000);
 
         uploadCV2().sendKeys("C:\\Users\\fryerg01\\Documents\\Dummy CVs\\PA_spa.docx");
 

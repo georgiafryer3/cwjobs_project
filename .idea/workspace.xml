@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f8124e-6e63-40bd-b96c-2c2ee40acba2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Georgia_CWJobs/pages/RegisterApplyPage.class" afterPath="$PROJECT_DIR$/target/test-classes/Georgia_CWJobs/pages/RegisterApplyPage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Georgia_CWJobs/steps/candidate/SearchSteps.class" afterPath="$PROJECT_DIR$/target/test-classes/Georgia_CWJobs/steps/candidate/SearchSteps.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java" afterPath="$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/VacancyPage.java" afterPath="$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/VacancyPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/SearchSteps.java" afterPath="$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/SearchSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" afterPath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" afterPath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/stories.candidate.ApplyAndRegister.html" afterPath="$PROJECT_DIR$/target/jbehave/stories.candidate.ApplyAndRegister.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/stories.candidate.ApplyAndRegister.stats" afterPath="$PROJECT_DIR$/target/jbehave/stories.candidate.ApplyAndRegister.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/stories.candidate.ApplyAndRegister.xml" afterPath="$PROJECT_DIR$/target/jbehave/stories.candidate.ApplyAndRegister.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/storyDurations.props" afterPath="$PROJECT_DIR$/target/jbehave/storyDurations.props" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" afterPath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" afterPath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/index.html" afterPath="$PROJECT_DIR$/target/jbehave/view/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/reports.html" afterPath="$PROJECT_DIR$/target/jbehave/view/reports.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.candidate.ApplyAndRegister.html" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.candidate.ApplyAndRegister.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.candidate.ApplyAndRegister.stats.html" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.candidate.ApplyAndRegister.stats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.candidate.ApplyAndRegister.xml.html" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.candidate.ApplyAndRegister.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/xref.json" afterPath="$PROJECT_DIR$/target/jbehave/view/xref.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/xref.xml" afterPath="$PROJECT_DIR$/target/jbehave/view/xref.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc.html" afterPath="$PROJECT_DIR$/target/site/serenity/ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc.json" afterPath="$PROJECT_DIR$/target/site/serenity/ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc_screenshots.html" afterPath="$PROJECT_DIR$/target/site/serenity/ab6b92d14de8d6e0869570de4da7d8614d6e25e44dcb12c6346f16fcfda742fc_screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,8 +61,8 @@
       <file leaf-file-name="RegisterApplyPage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="124" column="22" lean-forward="false" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+            <state relative-caret-position="430">
+              <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,7 +86,7 @@
       <file leaf-file-name="ApplicationSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/ApplicationSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="170">
               <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,8 +98,8 @@
       <file leaf-file-name="SearchSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/SearchSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +110,7 @@
       <file leaf-file-name="VacancyPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/VacancyPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="204">
               <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
                 <element signature="e#541#542#0" expanded="true" />
@@ -199,7 +219,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3848" />
+    <option name="x" value="-1928" />
     <option name="y" value="-786" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -220,6 +240,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -373,10 +395,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -514,9 +534,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CWJobs - 2017.11.03 at 12h 04m 03s.xml">
-      <configuration name="CWJobs" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CWJobs - 2017.11.03 at 13h 20m 15s.xml">
       <configuration name="CWJobs" configurationId="JUnit" />
     </history-entry>
@@ -544,25 +561,27 @@
     <history-entry file="CWJobs - 2017.11.09 at 11h 46m 38s.xml">
       <configuration name="CWJobs" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CWJobs - 2017.11.09 at 15h 43m 52s.xml">
+      <configuration name="CWJobs" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3848" y="-786" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-786" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4326087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34673914" sideWeight="0.51759064" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43913043" sideWeight="0.4904051" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43913043" sideWeight="0.4904051" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20869565" sideWeight="0.4824094" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23294243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23827292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -573,6 +592,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4326087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -591,19 +611,19 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>122</line>
+          <line>121</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>120</line>
+          <line>119</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>121</line>
+          <line>120</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -615,69 +635,63 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>130</line>
+          <line>129</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>132</line>
+          <line>131</line>
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>133</line>
+          <line>132</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>134</line>
+          <line>133</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>139</line>
+          <line>138</line>
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>136</line>
+          <line>135</line>
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>135</line>
+          <line>134</line>
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>138</line>
+          <line>137</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>137</line>
+          <line>136</line>
           <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>140</line>
+          <line>139</line>
           <properties />
           <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java</url>
-          <line>119</line>
-          <properties />
-          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/SearchSteps.java</url>
@@ -1018,22 +1032,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/VacancyPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/ApplicationSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="170">
           <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1059,18 +1060,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/steps/candidate/SearchSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="612">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/VacancyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Georgia_CWJobs/pages/RegisterApplyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="124" column="22" lean-forward="false" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+        <state relative-caret-position="430">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
